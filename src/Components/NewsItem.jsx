@@ -17,11 +17,11 @@ export default class NewsItem extends Component {
   };
 
   render() {
-    const { title, description, imageUrl, newsUrl } = this.props;
+    const { title, description, imageUrl, newsUrl, author, date } = this.props;
 
     return (
       <div className="my-3">
-        <div className="card" style={{ width: "20rem", height: "30rem" }}>
+        <div className="card" style={{ width: "22rem", height: "35rem" }}>
           <img
             src={
               imageUrl ||
@@ -34,11 +34,16 @@ export default class NewsItem extends Component {
           <div className="card-body">
             <h5 className="card-title">{this.truncateText(title, 15)}</h5>
             <p className="card-text">{this.truncateText(description, 20)}</p>
+            <p className="card-text">
+              <small className="text-muted">
+                By {author || "Unknown"} on {new Date(date).toGMTString()}
+              </small>
+            </p>
             <a
               href={newsUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="btn btn-sm btn-primary"
+              className="btn btn-sm btn-dark"
             >
               Read More
             </a>

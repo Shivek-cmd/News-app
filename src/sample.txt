@@ -1,1306 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 11202,
+    "totalResults": 67,
     "articles": [
         {
             "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Sophie Lloyd",
-            "title": "Woody Harrelson Involved in Motorcycle Accident As Ted Danson Steps In",
-            "description": "Harrelson's long-time friend and former co-star stepped in to help after the actor collided with a car in Los Angeles.",
-            "url": "https://www.newsweek.com/woody-harrelson-ted-danson-conan-obrien-podcast-1913749",
-            "urlToImage": "https://d.newsweek.com/en/full/2411418/left-woody-harrelson-right-ted-danson.jpg",
-            "publishedAt": "2024-06-17T16:19:12Z",
-            "content": "Woody Harrelson has shared how Ted Danson helped him out after a recent motorcycle accident.\r\nThe actors, who starred together on the 1980s sitcom Cheers, appeared on Monday's episode of the Conan O'… [+3221 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Electrek"
+                "name": "CNBC"
             },
-            "author": "Peter Johnson",
-            "title": "Kia to build $30,000 EV3 in Mexico, unlocking US EV tax credit",
-            "description": "A new low-cost EV is primed to hit the US market. Kia plans to build its new EV3 in Mexico as it looks to take advantage of the US electric vehicle tax credit.\n\n\n\n more…",
-            "url": "http://electrek.co/2024/06/17/kia-build-30000-ev3-mexico-us-ev-tax-credit/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/06/Kia-EV3-Mexico-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-17T16:18:06Z",
-            "content": "A new low-cost EV is primed to hit the US market. Kia plans to build its new EV3 in Mexico as it looks to take advantage of the US electric vehicle tax credit.\r\nKia introduced the EV3 during its 2023… [+3433 chars]"
+            "author": "Hugh Son",
+            "title": "Sen. Warren warns Powell against weakening banking regulations: 'Do your job’ - CNBC",
+            "description": "Bank CEOs have said the Basel III Endgame capital increases are unnecessarily aggressive and would force the industry to curtail lending.",
+            "url": "https://www.cnbc.com/2024/06/18/sen-elizabeth-warren-powell-basel-iii-endgame.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107218552-16802749492023-03-31t145620z_1081608619_rc2250aepzz8_rtrmadp_0_usa-stocks.jpeg?v=1680278452&w=1920&h=1080",
+            "publishedAt": "2024-06-18T12:15:02Z",
+            "content": "Sen. Elizabeth Warren, D-Mass., is accusing Federal Reserve Chair Jerome Powell of doing the financial industry's bidding by considering changes to a sweeping set of regulations aimed at boosting the… [+2783 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Brett LoGiurato",
-            "title": "Stock market today: S&P 500, Nasdaq hit new highs as Wall Street gets bullish",
-            "description": "Wall Street wondered if the bull rally that has roared through 2024 has more room to run.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-hit-new-highs-as-wall-street-gets-bullish-161644973.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h0.5aphJ0seXhUhY10f2lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/8a39d8c0-2c99-11ef-bb96-df7817cd9199",
-            "publishedAt": "2024-06-17T16:16:44Z",
-            "content": "US stocks held near record-high levels Monday ahead of a holiday-shortened trading week as Wall Street wondered if the bull rally that has roared through 2024 has more room to run.\r\nThe tech-heavy Na… [+4119 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brett LoGiurato",
-            "title": "Stock market today: S&P 500, Nasdaq hit new record highs as Wall Street gets bullish",
-            "description": "Wall Street wondered if the bull rally that has roared through 2024 has more room to run.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-hit-new-record-highs-as-wall-street-gets-bullish-161644799.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h0.5aphJ0seXhUhY10f2lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/8a39d8c0-2c99-11ef-bb96-df7817cd9199",
-            "publishedAt": "2024-06-17T16:16:44Z",
-            "content": "US stocks held near record-high levels Monday ahead of a holiday-shortened trading week as Wall Street wondered if the bull rally that has roared through 2024 has more room to run.\r\nThe tech-heavy Na… [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "Marie Lizak",
-            "title": "Capable de se « recharger » en 3 minutes, ce sérieux rival chinois du Tesla Model X voit grand en Europe",
-            "description": "Déjà commercialisé en Chine, le nouveau Nio ES8 (EL8) continue son déploiement en Europe, notamment en Allemagne et dans les pays scandinaves. Ce rival de la Tesla Model X démarrera ses livraisons sur le Vieux Continent au mois de septembre prochain.",
-            "url": "https://www.frandroid.com/marques/nio/2050486_capable-de-se-recharger-en-3-minutes-ce-serieux-rival-chinois-du-tesla-model-x-voit-grand-en-europe",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/06/nio-el8-2024.jpeg",
-            "publishedAt": "2024-06-17T16:16:08Z",
-            "content": "Déjà commercialisé en Chine, le nouveau Nio ES8 (EL8) continue son déploiement en Europe, notamment en Allemagne et dans les pays scandinaves. Ce rival de la Tesla Model X démarrera ses livraisons su… [+4238 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eleconomista.es"
-            },
-            "author": "Europa Press, Ankor Tejero",
-            "title": "Warren Buffett reduce su participación en el fabricante chino de coches eléctricos BYD hasta el 6,9%",
-            "description": "Berkshire Hathaway, uno de los primeros inversores que financiaron la expansión del fabricante chino de automóviles BYD, ha reducido su participación en el productor asiático con la venta de 1,3 millones de acciones que cotizan en la Bolsa de Valores de Hong …",
-            "url": "https://www.eleconomista.es/motor/noticias/12869159/06/24/warren-buffett-reduce-su-participacion-en-el-fabricante-chino-de-coches-electricos-byd-hasta-el-69.html",
-            "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/3/8/a/buffett.jpg",
-            "publishedAt": "2024-06-17T16:13:52Z",
-            "content": "Berkshire Hathaway, uno de los primeros inversores que financiaron la expansión del fabricante chino de automóviles BYD, ha reducido su participación en el productor asiático con la venta de 1,3 mill… [+2222 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "schwit1",
-            "title": "Used EV price crash keeps getting deeper with 'premium' brand idea history",
-            "description": "The decline has been dramatic over the past year. In June 2023, average used EV prices were over 25% higher than used gas car prices, but by May, used EVs were on average 8% lower than the average price for a used gasoline-powered car in U.S. In dollar terms,…",
-            "url": "https://slashdot.org/submission/17322635/used-ev-price-crash-keeps-getting-deeper-with-premium-brand-idea-history",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T16:13:29Z",
-            "content": "The decline has been dramatic over the past year. In June 2023, average used EV prices were over 25% higher than used gas car prices, but by May, used EVs were on average 8% lower than the average pr… [+985 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ixbt.com"
-            },
-            "author": "Prolus",
-            "title": "Tesla подала в суд на бывшего поставщика Matthews из-за несанкционированной передачи коммерческой тайны",
-            "description": "Американская компания Tesla, производитель электромобилей и решений для хранения электроэнергии подала в суд на своего бывшего поставщика, компанию Matthews International Corp. В своём иске к...Читать дальше",
-            "url": "https://www.ixbt.com/live/car/tesla-podala-v-sud-na-byvshego-postavschika-matthews-iz-za-nesankcionirovannoy-peredachi-kommercheskoy-tayny.html",
-            "urlToImage": "https://img.ixbt.site/live/topics/preview/00/07/34/56/78138d42ae.jpg",
-            "publishedAt": "2024-06-17T16:07:30Z",
-            "content": "Tesla, , Matthews International Corp. Matthews , Tesla, .\r\n . \r\nTesla, , 14 , ( ), Matthews , . , , , 1 .\r\n , Matthews ( , ) Tesla 2019 . , Matthews Tesla , « , Tesla».\r\n Tesla Matthews , .\r\n:\r\nReute… [+1 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phonandroid"
-            },
-            "author": "Alexandre Mathiot",
-            "title": "Cette voiture électrique veut battre le record d’accélération de la Porsche Taycan Turbo, devinez qui la développe !",
-            "description": "La Xiaomi SU7, déjà impressionnante avec ses 673 chevaux, pourrait bientôt dépasser la barre des 1 000 ch. Repérée sur le Nürburgring, cette berline électrique chinoise vise le record détenu par la Porsche Taycan Turbo GT. Xiaomi, le géant chinois...",
-            "url": "https://www.phonandroid.com/cette-voiture-electrique-veut-battre-le-record-dacceleration-de-la-porsche-taycan-turbo-devinez-qui-la-developpe.html",
-            "urlToImage": "https://wp-pa.phonandroid.com/uploads/2024/06/arriere-su7-circuit.jpg",
-            "publishedAt": "2024-06-17T16:04:58Z",
-            "content": "La Xiaomi SU7, déjà impressionnante avec ses 673 chevaux, pourrait bientôt dépasser la barre des 1 000 ch. Repérée sur le Nürburgring, cette berline électrique chinoise vise le record détenu par la P… [+2255 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Fred Lambert",
-            "title": "Tesla asks parties in Musk compensation case to interpret shareholders’ ratification",
-            "description": "Tesla is asking the parties involved in Elon Musk’s CEO compensation case to interpret shareholders’ ratification last week. Following Tesla...",
-            "url": "http://electrek.co/2024/06/17/tesla-parties-musk-compensation-case-interpret-shareholders-ratification/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/06/Elon-musk-Tesla-vote.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-17T16:04:37Z",
-            "content": "Tesla is asking the parties involved in Elon Musk’s CEO compensation case to interpret shareholders’ ratification last week.\r\nFollowing Tesla shareholders voting again for Musk’s 2018 CEO compensatio… [+1749 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Macitynet.it"
-            },
-            "author": "Daniele Piccinelli",
-            "title": "Tesla, la guida autonoma approvata per test in Cina, il titolo vola",
-            "description": "L’autorizzazione per i test in Cina è limitata ma è un passo fondamentale per la guida autonoma Tesla e un’arma contro i concorrenti locali\n- su macitynet.it Tesla, la guida autonoma approvata per test in Cina, il titolo vola",
-            "url": "https://www.macitynet.it/tesla-guida-autonoma-approvata-test-cina/",
-            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/03/Teslalogo-jpg.webp",
-            "publishedAt": "2024-06-17T16:00:40Z",
-            "content": "Da mesi Tesla forse soffre più per le promesse mancate o posticipate di Elon Musk che per la concorrenza dei marchi cinesi che continuano a tagliare prezzi innalzando la tecnologia, ma le cose potreb… [+2238 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Auto-moto.com"
-            },
-            "author": "Hugo Dupont",
-            "title": "Un nouveau constructeur automobile arrive en France en 2025",
-            "description": "Comme si les nouveaux constructeurs automobiles ne se multipliaient pas déjà comme des petits pains ces dernières années, voilà que la France pourra compter sur un nouvel entrant dès l'année prochaine. Pour le coup, il était attendu de longue date.",
-            "url": "https://www.auto-moto.com/business/un-nouveau-constructeur-automobile-arrive-en-france-en-2025-38354",
-            "urlToImage": "https://photos.auto-moto.com/32/2024/06/photo_article/38354/160845/1200-L-un-nouveau-constructeur-automobile-arrive-en-france-en-2025.webp",
-            "publishedAt": "2024-06-17T16:00:00Z",
-            "content": "Polestar, ça vous dit quelque chose ? Ancien département sportif de la marque suédoise, elle est devenue une marque à part entière il y a quelques années à la manière de Cupra. Propriété du groupe Ge… [+3335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Bobby Green",
-            "title": "Hellre sexa än eldrift i nya Dodge Charger",
-            "description": "Enligt ny undersökning\n\n\n\n\n\n\nNästa Dodge Charger är eldriven, men man kommer även att kunna få den med rak sexa. V8:a är ett minne blott, men nu är det som det är. De första leveranserna ska äga rum innan året är över. Carscoops bestämde sig för att göra en l…",
-            "url": "https://feber.se/bil/hellre-sexa-an-eldrift-i-nya-dodge-charger/468738/",
-            "urlToImage": "https://static.feber.se/article_images/59/18/25/591825.jpg",
-            "publishedAt": "2024-06-17T16:00:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+23286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay - Yahoo Finance",
-            "description": "Tesla kicks off legal fight to reinstate Musk's payYahoo Finance The Big Loser in Tesla's Shareholder Vote Is DelawareThe Wall Street Journal How Tesla CEO Elon Musk Won His Pay BackBarron's Musk's pay package approval was a mistake: institutional shareholder…",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174173611",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T15:56:27Z",
-            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Leblogauto.com"
-            },
-            "author": "Elisabeth Studer",
-            "title": "Berkshire Hathaway (Warren Buffet) réduit encore sa participation dans BYD",
-            "description": "Berkshire Hathaway, la société d'investissement détenue par Warren Buffett a de nouveau réduit sa participation dans le constructeur chinois de véhicules électriques BYD, lequel est aux coudes à coudes avec Tesla en terme de production de VE.",
-            "url": "https://www.leblogauto.com/bilan-et-finances/berkshire-hathaway-warren-buffet-reduit-encore-sa-participation-dans-byd-96129",
-            "urlToImage": "https://medias.leblogauto.com/20/2024/06/photo_article/96129/178618/1200-L-berkshire-hathaway-warren-buffet-rduit-encore-sa-participation-dans-byd.jpg",
-            "publishedAt": "2024-06-17T15:56:00Z",
-            "content": "La société de Warren Buffet réduit encore sa participation dans BYD\r\nBerkshire Hathaway a ainsi vendu 1,3 million d'actions cotées à Hong Kong du fabricant chinois de véhicules électriques BYD pour 3… [+1344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Futurism"
-            },
-            "author": "Victor Tangermann",
-            "title": "Fired Neuralink Employee Sues, Says She Was Attacked by Lab Monkey Carrying Herpes",
-            "description": "A former employee at Elon Musk's brain-computer interface startup Neuralink is suing the company, alleging that she was forced to work with lab monkeys that carried Herpes and was close enough to have her bare skin scratched by them. As Bloomberg reports, the…",
-            "url": "https://futurism.com/neoscope/neuralink-employee-sues-lab-monkey",
-            "urlToImage": "https://wp-assets.futurism.com/2024/06/neuralink-employee-sues-lab-monkey.jpg",
-            "publishedAt": "2024-06-17T15:51:26Z",
-            "content": "Image byJEAN-FRANCOIS MONIER / AFP) (Photo by JEAN-FRANCOIS MONIER/AFP via Getty Images\r\nA former employee at Elon Musk's brain-computer interface startup Neuralink is suing the company, alleging tha… [+2564 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Numerama"
-            },
-            "author": "Raphaëlle Baut",
-            "title": "La Mini Cooper électrique est menacée par les nouvelles règles européennes",
-            "description": "Avec des droits de douane poussés à 48,1 % au lieu de 10 %, le lancement de la nouvelle génération de la Mini Cooper électrique a pris du plomb dans l’aile. La production en Chine de ce modèle va couter plus cher que prévu au groupe BMW. En voulant sanctionne…",
-            "url": "https://www.numerama.com/vroom/1761720-la-mini-cooper-electrique-est-menacee-par-les-nouvelles-regles-europeennes.html",
-            "urlToImage": "https://www.numerama.com/wp-content/uploads/2024/06/mini-cooper-e-02-203.jpg",
-            "publishedAt": "2024-06-17T15:46:49Z",
-            "content": "Avec des droits de douane poussés à 48,1 % au lieu de 10 %, le lancement de la nouvelle génération de la Mini Cooper électrique a pris du plomb dans laile. La production en Chine de ce modèle va cout… [+5661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WebProNews"
-            },
-            "author": "Rich Ord",
-            "title": "Tesla’s Bold Vision for the Future: Autonomy, Humanoid Robots, and Sustainability",
-            "description": "With each software release, Tesla’s self-driving cars are becoming safer and more reliable. \"It’s very clear that we will actually go to the point where it is far safer than a person driving the car,\" he emphasized. According to Musk, the autonomy features wi…",
-            "url": "https://www.webpronews.com/teslas-bold-vision-for-the-future-autonomy-humanoid-robots-and-sustainability/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2024/06/Screenshot-2024-06-17-at-11.40.52 AM.jpg",
-            "publishedAt": "2024-06-17T15:43:21Z",
-            "content": "Elon Musk’s recent address at the 2024 Annual Stockholder Meeting was nothing short of visionary. With characteristic enthusiasm and a touch of humor, Musk painted a vivid picture of Tesla’s ambitiou… [+12941 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Instapundit.com"
-            },
-            "author": "Stephen Green",
-            "title": "THE EV BUBBLE IS DEFLATING: Used EV price crash keeps getting deeper with ‘premium’ brand idea h",
-            "description": "THE EV BUBBLE IS DEFLATING: Used EV price crash keeps getting deeper with ‘premium’ brand idea history. The decline has been dramatic over the past year. In June 2023, average used EV prices were over 25% higher than used gas car prices, but by May, used EVs …",
-            "url": "https://instapundit.com/653546/",
-            "urlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
-            "publishedAt": "2024-06-17T15:40:01Z",
-            "content": "The decline has been dramatic over the past year. In June 2023, average used EV prices were over 25% higher than used gas car prices, but by May, used EVs were on average 8% lower than the average pr… [+1098 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "finance.yahoo.com",
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "By Tom Hals\nWILMINGTON, Delaware (Reuters) - Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling voiding the pay, according to a letter…",
-            "url": "https://biztoc.com/x/266b2134501c2d85",
-            "urlToImage": "https://biztoc.com/cdn/266b2134501c2d85_s.webp",
-            "publishedAt": "2024-06-17T15:39:10Z",
-            "content": "By Tom HalsWILMINGTON, Delaware (Reuters) - Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly… [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Europapress.es"
-            },
-            "author": null,
-            "title": "Tesla demanda a un antiguo proveedor por el robo de secretos comerciales de la fabricación de baterías",
-            "description": "Tesla ha demandado a su antiguo proveedor Matthews International ante un tribunal federal de California por el supuesto robo de secretos comerciales relacionados con el proceso de fabricación de baterías que sigue el productor y compartirlo con los competidor…",
-            "url": "https://www.europapress.es/motor/sector-00644/noticia-tesla-demanda-antiguo-proveedor-robo-secretos-comerciales-fabricacion-baterias-20240617173806.html",
-            "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240617173806_1200.jpg",
-            "publishedAt": "2024-06-17T15:38:06Z",
-            "content": "MADRID, 17 Jun. (EUROPA PRESS) - \r\n Tesla ha demandado a su antiguo proveedor Matthews International ante un tribunal federal de California por el supuesto robo de secretos comerciales relacionados c… [+1859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android.com.pl"
-            },
-            "author": "Jolanta Szczepaniak",
-            "title": "Tesla na autopilocie to prawdziwe zagrożenie. Tym razem wjechała w radiowóz",
-            "description": "Tesla, która jechała, korzystając z systemu zautomatyzowanej jazdy, zderzyła się z zaparkowanym radiowozem. O włos ominęła policjanta, który nieopodal zarządzał ruchem po innym wypadku. Sytuacja miała miejsce w Los Angeles. I jest to kolejna kolizja spowodowa…",
-            "url": "https://android.com.pl/tech/752063-tesla-kolizja-wypadek-autopilot-uwaga/",
-            "urlToImage": "https://static.android.com.pl/uploads/2024/06/shutterstock_2475128451-1280x720.jpg",
-            "publishedAt": "2024-06-17T15:32:00Z",
-            "content": "Tesla, która jechaa, korzystajc z systemu zautomatyzowanej jazdy, zderzya si z zaparkowanym radiowozem. O wos omina policjanta, który nieopodal zarzdza ruchem po innym wypadku. Sytuacja miaa miejsce … [+3408 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Dot"
-            },
-            "author": "Kira Deshler",
-            "title": "Newsletter: Why are Chipotle orders full of bugs?",
-            "description": "<!-- /wp:separator -->\n\r\n\nThe internet is chaotic—but we’ll break it down for you in one daily email. Sign up for the Daily Dot’s web_crawlr newsletter here to get the best (and worst) of the internet straight into your inbox.\r\n\n\r\n\n\r\n\n\r\n\n\n\nHello fellow web cr…",
-            "url": "https://www.dailydot.com/news/daily-dot-newsletter-web-crawlr-6-17-2024/",
-            "urlToImage": "https://uploads.dailydot.com/2024/06/web_crawlr-image-2024-06-17.png?auto=compress&fit=scale&fm=png&h=400&w=800",
-            "publishedAt": "2024-06-17T15:30:00Z",
-            "content": "The internet is chaoticbut well break it down for you in one daily email. Sign up for the Daily Dots web_crawlr newsletter here to get the best (and worst) of the internet straight into your inbox.\r\n… [+2800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Hugo Engström",
-            "title": "Ny rapport visar digitala mediers skadlighet för unga",
-            "description": "Folkhälsomyndigheten släpper kunskapssammanställning\n\n\n\n\n\n\nEn ny rapport från Folkhälsomyndigheten och Mediemyndigheten visar att hög användning av digitala medier kan leda till sämre sömn, depressiva symtom och missnöje med den egna kroppen hos barn och unga…",
-            "url": "https://feber.se/samhalle/ny-rapport-visar-digitala-mediers-skadlighet-for-unga/468750/",
-            "urlToImage": "https://static.feber.se/article_images/59/18/28/591828.jpg",
-            "publishedAt": "2024-06-17T15:30:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+23291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Jena McGregor, Forbes Staff, \n Jena McGregor, Forbes Staff\n https://www.forbes.com/sites/jenamcgregor/",
-            "title": "What New Science Says About Hybrid Work, Lattice’s CEO On Digital Workers And More",
-            "description": "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Monday.",
-            "url": "https://www.forbes.com/sites/jenamcgregor/2024/06/17/what-new-science-says-about-hybrid-work-lattices-ceo-on-digital-workers-and-more/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6662e4968fcbad636c768004/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-06-17T15:27:47Z",
-            "content": "This is the published version of Forbes' Future of Work newsletter, which offers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the … [+10278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
-            "title": "Sam Altman might reportedly turn OpenAI into a regular for-profit company",
-            "description": "OpenAI CEO Sam Altman is reportedly considering turning the company into a for-profit corporation.",
-            "url": "https://www.windowscentral.com/software-apps/sam-altman-might-reportedly-turn-openai-into-a-regular-for-profit-company",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Li6ishbDQkw9Po3Jkwcz5Z-1200-80.jpg",
-            "publishedAt": "2024-06-17T15:17:09Z",
-            "content": "What you need to know\r\n<ul><li>OpenAI CEO Sam Altman is reportedly considering turning OpenAI into a regular for-profit corporation.</li><li>OpenAI and Sam Altman were recently placed under fire by b… [+2026 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Business Standard"
-            },
-            "author": "Reuters",
-            "title": "Warren Buffett's Berkshire Hathaway trims its stake in China's BYD",
-            "description": "Berkshire recently sold 1.3 million Hong Kong-listed BYD shares for HK$310.5 million ($39.8 million)",
-            "url": "https://www.business-standard.com/world-news/warren-buffetts-berkshire-hathaway-trims-its-stake-in-chinas-byd-124061700817_1.html",
-            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-01/10/thumb/featurecrop/400X400/1515595468-66.jpg",
-            "publishedAt": "2024-06-17T15:13:20Z",
-            "content": "Berkshire recently sold 1.3 million Hong Kong-listed BYD shares for HK$310.5 million ($39.8 million)\r\nWarren Buffett's Berkshire Hathaway has trimmed its stake in China's BYD , which surpassed Tesla … [+1793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes.com.mx"
-            },
-            "author": "Forbes Staff",
-            "title": "Berkshire Hathaway reduce su participación en el fabricante de eléctricos chino BYD",
-            "description": "Forbes México.\n Berkshire Hathaway reduce su participación en el fabricante de eléctricos chino BYD\n\nBerkshire vendió 1.3 millones de acciones de BYD que cotizan en Hong Kong por 39.8 mdd, dejando una participación de poco más del 6%.\nBerkshire Hathaway reduc…",
-            "url": "https://www.forbes.com.mx/berkshire-hathaway-reduce-su-participacion-en-el-fabricante-de-electricos-chino-byd/",
-            "urlToImage": "https://cdn.forbes.com.mx/2024/01/vehiculos-inteligentes-BYD-autos-electricos.webp",
-            "publishedAt": "2024-06-17T15:12:56Z",
-            "content": "Berkshire Hathaway de Warren Buffett volvió a recortar su participación en BYD, la compañía china que el año pasado superó a Tesla como mayor fabricante de vehículos eléctricos del mundo.\r\nBerkshire … [+1616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Expansion.com"
-            },
-            "author": "Expansión",
-            "title": "Warren Buffett reduce su participación en la china BYD hasta el 6,9%",
-            "description": "Berkshire Hathaway, uno de los primeros inversores que financiaron la expansión del fabricante chino de automóviles BYD, ha reducido su participación en el productor asiático...",
-            "url": "https://www.expansion.com/mercados/2024/06/17/66705242e5fdea9c5d8b4571.html",
-            "urlToImage": "https://phantom-expansion.unidadeditorial.es/18e0256b2dfe57f7e8eb038527781d65/crop/222x34/1339x778/f/webp/assets/multimedia/imagenes/2024/06/17/17186370497061.jpg",
-            "publishedAt": "2024-06-17T15:12:17Z",
-            "content": "Berkshire Hathaway ha vendido 1,3 millones de acciones en la Bolsa de Valores de Hong Kong valoradas en 37,14 millones de euros.Berkshire Hathaway, uno de los primeros inversores que financiaron la e… [+1439 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "jsor@businessinsider.com (Jennifer Sor)",
-            "title": "Tesla is the biggest stock bubble in history and shares are headed to $15, short seller says",
-            "description": "\"In my view, Tesla is the biggest stock market bubble in world history,\" according to one investor who's been shorting the stock since 2020.",
-            "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-prediction-crash-earnings-deliveries-outlook-bubble-tsla-2024-6",
-            "urlToImage": "https://i.insider.com/66671450e07904901817611d?width=1200&format=jpeg",
-            "publishedAt": "2024-06-17T15:11:22Z",
-            "content": "Tesla stock is wildly overpriced and could soon face an extreme correction, according to short-seller Per Lekander.\r\n\"In my view, Tesla is the biggest stock market bubble in world history,\" The Clean… [+1546 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Tesla is the biggest stock bubble in history and shares are headed to $15, short seller says",
+            "author": "Bloomberg",
+            "title": "Bitcoin Touches a One-Month Low in a Broad Crypto Market Selloff - Bloomberg",
             "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97431207-65c3-4e38-8d35-9444c4e2d893",
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE4L2JpdGNvaW4tYnRjLWRyb3BzLXRvLWEtb25lLW1vbnRoLWxvdy1pbi1icm9hZC1jcnlwdG8tbWFya2V0LXNlbGxvZmbSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T15:11:22Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+            "publishedAt": "2024-06-18T12:07:10Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Génération NT"
+                "name": "CNBC"
             },
-            "author": "Christian D.",
-            "title": "Elon Musk promet toujours un Roadster qui fera plus que rouler",
-            "description": "Le nouveau Roadster de Tesla n'est toujours pas d'actualité mais Elon Muks vante toujours ses caractéristiques hors du commun qui le feront décoller du bitume.",
-            "url": "https://www.generation-nt.com/actualites/tesla-roadster-nouvelle-version-spacex-package-2048122",
-            "urlToImage": "https://img.generation-nt.com/tesla-roadster-02_04B002A301650599.webp",
-            "publishedAt": "2024-06-17T15:10:01Z",
-            "content": "Après avoir démarré la carrière de Tesla par un Roadster qui était essentiellement l'électrification d'une Lotus, Elon Musk promet depuis plusieurs années (avec une première présentation en 2017) une… [+2183 chars]"
+            "author": "Sean Conlon",
+            "title": "5 things to know before the stock market opens - CNBC",
+            "description": "Here are the most important news items that investors need to start their trading day.",
+            "url": "https://www.cnbc.com/2024/06/18/5-things-to-know-before-the-stock-market-opens-june-18.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107424720-17176127832024-06-04t093423z_1728332335_rc2648ay7ide_rtrmadp_0_taiwan-computex.jpeg?v=1717617609&w=1920&h=1080",
+            "publishedAt": "2024-06-18T11:22:23Z",
+            "content": "Here are five key things investors need to know to start the trading day:\r\n1. Rally on\r\nIt's another record for the S&amp;P 500. Gains from megacap tech stocks drove the broad index higher during Mon… [+3929 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Jalopnik"
-            },
-            "author": "Owen Bellwood",
-            "title": "Tesla Crashes Into Police Cruiser Already Responding To Fatal Car Crash While In Full Self Driving Mode",
-            "description": "A Tesla in full self-driving mode slammed into a California Highway Patrol cruiser that was already responding to a fatal crash last week. The electric car was running Tesla’s advanced driver assist feature Full Self-Driving when it smashed into the cop car, …",
-            "url": "https://jalopnik.com/tesla-using-full-self-drive-beta-hits-police-cruiser-al-1851543891",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/626820175f4a133cc1308d243e473115.png",
-            "publishedAt": "2024-06-17T15:05:00Z",
-            "content": "A Tesla in full self-driving mode slammed into a California Highway Patrol cruiser that was already responding to a fatal crash last week. The electric car was running Teslas advanced driver assist f… [+2202 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Ben Kesslen",
-            "title": "CEO pay is rising faster than it has in a decade — and 3 times as fast as worker wages",
-            "description": "Executive pay in the U.S. is skyrocketing at the highest rate in 14 years, widening the income-inequality gap as it increases almost three times faster than overall wage growth.Read more...",
-            "url": "https://qz.com/ceo-pay-increasing-three-times-faster-than-worker-pay-1851543952",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c429a6f69c837b1b5db8eda4a0d6291a.jpg",
-            "publishedAt": "2024-06-17T15:04:00Z",
-            "content": "Executive pay in the U.S. is skyrocketing at the highest rate in 14 years, widening the income-inequality gap as it increases almost three times faster than overall wage growth.\r\nSo far this year, Me… [+1576 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Businessinsider.com.pl"
+                "name": "BBC News"
             },
             "author": null,
-            "title": "Prawnicy Muska nie dali Polakowi rady. Przegrali w sądzie",
-            "description": "Prawnicy Elona Muska wytoczyli potężne działa względem Polaka, który miał — według firmy — bezprawnie wykorzystywać nazwę amerykańskiego przedsiębiorstwa. Na nic zdały się argumenty amerykańskiej strony.",
-            "url": "https://businessinsider.com.pl/wiadomosci/prawnicy-muska-nie-dali-rady-polakowi-przegrali-w-sadzie/7nsgkhp",
-            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/Mx8k9kpTURBXy8yZGY2NDc0OWY4MTVhZDgzZWFhYWNiYjUzZmEwOTY3MC5qcGeSlQMAzLrNF3DNDTCTBc0EsM0Cdt4AAaEwAQ",
-            "publishedAt": "2024-06-17T15:03:51Z",
-            "content": "Z sdowego starcia prawnicy Elona Muska kontra polski pasjonat Tesli zwycisko wyszed nasz rodak. Poszo o stron internetow, któr zarejestrowa Polak, a do której prawne zastrzeenia mia dzia prawny Tesli… [+1781 chars]"
+            "title": "McDonalds removes AI drive-throughs after order errors - BBC.com",
+            "description": "The voice recognition system seems not to have recognised what customers were really ordering.",
+            "url": "https://www.bbc.com/news/articles/c722gne7qngo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd9c/live/eb2c6f90-2d56-11ef-a875-25d011ebc1b4.jpg",
+            "publishedAt": "2024-06-18T11:15:52Z",
+            "content": "McDonald's is removing artificial intelligence (AI) powered ordering technology from its drive-through restaurants in the US, after customers shared its comical mishaps online.\r\nA trial of the system… [+2452 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Feber.se"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Bobby Green",
-            "title": "Detta är sista exemplaret av Jaguar F-Type",
-            "description": "50 år efter sista E-Type\n\n\n\n\n\n\nNu har de allra sista exemplaret av Jaguars modell F-Type rullat av bandet på fabriken i Castle Bromwich. Det handlar om en cabriolet lackad i färgen Giola Green med svart tygtak, ljus skinninredning och som under huven har en V…",
-            "url": "https://feber.se/bil/detta-ar-sista-exemplaret-av-jaguar-f-type/468746/",
-            "urlToImage": "https://static.feber.se/article_images/59/18/22/591822.jpg",
-            "publishedAt": "2024-06-17T15:00:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+22838 chars]"
-        },
-        {
-            "source": {
-                "id": "il-sole-24-ore",
-                "name": "Il Sole 24 Ore"
-            },
-            "author": "di Biagio Simonetta",
-            "title": "La giapponese TDK annuncia le nuove batterie allo stato solido con densità 100 volte maggiore",
-            "description": "La società giapponese, tra i principali fornitori di Apple e Tesla, annuncia un nuovo materiale che cambierà le prestazioni energetiche. E il mercato la premia",
-            "url": "https://www.ilsole24ore.com/art/tdk-pronta-rivoluzionare-batterie-device-tecnologici-AG7PQob",
-            "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/06/18/Immagini/Ritagli/tdk_hungary_components_kft-U62716218178tDs-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-            "publishedAt": "2024-06-17T14:56:14Z",
-            "content": "Ascolta la versione audio dell'articolo\r\n2' di lettura\r\nLe batterie allo stato solido di TDK nuova frontiera energetica dei dispositivi tecnologici indossabili? Laria che tira è un po questa, dopo ch… [+1975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "WSJ's Tim Higgins: Investors are excited Elon Musk can bring some of his attention back to Tesla - CNBC Television",
-            "description": "WSJ's Tim Higgins: Investors are excited Elon Musk can bring some of his attention back to TeslaCNBC Television Tesla kicks off legal fight to reinstate Musk's payYahoo Finance The Big Loser in Tesla's Shareholder Vote Is DelawareThe Wall Street Journal Musk'…",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174172831",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T14:54:08Z",
-            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "theglobeandmail.com",
-            "title": "Tesla kicks off legal fight to reinstate CEO Elon Musk’s pay",
-            "description": "Tesla TSLA-Q began its fight for legal recognition of a shareholder vote favoring Elon Musk’s record compensation, telling a Delaware judge that it “significantly impacts” her ruling voiding the pay, according to a letter made public on Monday.\nTesla wrote to…",
-            "url": "https://biztoc.com/x/abd8da6b045cbb68",
-            "urlToImage": "https://biztoc.com/cdn/abd8da6b045cbb68_s.webp",
-            "publishedAt": "2024-06-17T14:53:48Z",
-            "content": "Tesla TSLA-Q began its fight for legal recognition of a shareholder vote favoring Elon Musks record compensation, telling a Delaware judge that it significantly impacts her ruling voiding the pay, ac… [+133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "reuters.com",
-            "title": "Tesla sues ex-supplier Matthews over EV battery trade secrets",
-            "description": "Tesla has sued its former supplier Matthews International in California federal court for allegedly stealing trade secrets related to Tesla's battery-manufacturing process and sharing them with the electric-vehicle giant's competitors.",
-            "url": "https://biztoc.com/x/0b909ba4f7754152",
-            "urlToImage": "https://biztoc.com/cdn/0b909ba4f7754152_s.webp",
-            "publishedAt": "2024-06-17T14:53:26Z",
-            "content": "Tesla has sued its former supplier Matthews International in California federal court for allegedly stealing trade secrets related to Tesla's battery-manufacturing process and sharing them with the e… [+84 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": null,
-            "title": "Tesla Sues Ex-Supplier Over Stealing EV Battery Trade Secrets",
-            "description": "Tesla has sued its former supplier Matthews International in California federal court for allegedly stealing trade secrets related to Tesla's battery-manufacturing process and sharing them with the electric-vehicle giant's competitors.",
-            "url": "https://www.ndtv.com/world-news/tesla-sues-ex-supplier-over-stealing-ev-battery-trade-secrets-5910415",
-            "urlToImage": "https://c.ndtvimg.com/2024-06/1i9ra19_tesla-generic-reuters_625x300_17_June_24.jpeg?ver-20240616.345",
-            "publishedAt": "2024-06-17T14:50:52Z",
-            "content": "Tesla asked the court to block Matthews from misusing its trade secrets. (Representational)\r\nTesla has sued its former supplier Matthews International in California federal court for allegedly steali… [+1499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Europapress.es"
-            },
-            "author": null,
-            "title": "Warren Buffett reduce su participación en la china BYD hasta el 6,9%",
-            "description": "Berkshire Hathaway, uno de los primeros inversores que financiaron la expansión del fabricante chino de automóviles BYD, ha reducido su participación en el productor asiático con la venta de 1,3 millones de acciones que cotizan en la Bolsa de Valores de Hong …",
-            "url": "https://www.europapress.es/motor/sector-00644/noticia-warren-buffett-reduce-participacion-china-byd-69-20240617164811.html",
-            "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240617164811_1200.jpg",
-            "publishedAt": "2024-06-17T14:48:11Z",
-            "content": "MADRID, 17 Jun. (EUROPA PRESS) - \r\n Berkshire Hathaway, uno de los primeros inversores que financiaron la expansión del fabricante chino de automóviles BYD, ha reducido su participación en el product… [+1358 chars]"
-        },
-        {
-            "source": {
-                "id": "info-money",
-                "name": "InfoMoney"
-            },
-            "author": "Reuters",
-            "title": "Berkshire Hathaway, de Warren Buffett, reduz sua participação na chinesa BYD",
-            "description": "A venda reduziu a participação da Berkshire na BYD de 7,02% para 6,90%\nThe post Berkshire Hathaway, de Warren Buffett, reduz sua participação na chinesa BYD appeared first on InfoMoney.",
-            "url": "https://www.infomoney.com.br/onde-investir/berkshire-hathaway-de-warren-buffett-reduz-sua-participacao-na-chinesa-byd/",
-            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-17T140805Z_1_LYNXMPEK5G0GI_RTROPTP_4_AUTOS-EUROPE-CHINA-STRATEGY.jpg?quality=70",
-            "publishedAt": "2024-06-17T14:44:07Z",
-            "content": "A Berkshire Hathaway (BRK.B), de Warren Buffett, reduziu novamente sua participação na BYD, a montadora chinesa que no ano passado ultrapassou a Tesla (TSLA) como a maior fabricante de veículos elétr… [+1359 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Odatv.com"
-            },
-            "author": "Odatv",
-            "title": "Elektrikli araçlarda zirveye oturdu: İşte en çok satılan araç",
-            "description": "Tesla, 2023 yılında 1,2 milyondan fazla Model Y satışı gerçekleştirerek, elektrikli araçların küresel otomobil pazarında zirveye yerleşmesini sağladı. Bu başarı Tesla Model Y'nin, bir yıl boyunca dünyanın en çok satan aracı olmasını ve ilk kez bir elektrikli …",
-            "url": "https://www.odatv.com/bilim-ve-teknoloji/tesla-2023-yilinda-12-milyon-adetten-fazla-model-y-satisi-gerceklestirdi-elektrikli-araclar-piyasasinda-zirve-teslanin-oldu-120049098",
-            "urlToImage": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/06/17/tesla-2023-yilinda-12-milyon-adetten-fazla-model-y-satisi-gerceklestirdi-elektrikli-araclar-piyasasinda-zirve-teslanin-oldu-i5af.png",
-            "publishedAt": "2024-06-17T14:43:23Z",
-            "content": "2022'den bu yana satışta olan Tesla Model Y, Elon Musk'ın elektrikli araç firması Tesla'nın başarısında önemli bir rol oynadı. İki yıl üst üste İngiltere'nin en çok satan elektrikli otomobili unvanın… [+1215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Dips As Gold Stock Scores Upgrade; Warren Buffett Unloads This Stock (Live Coverage)",
-            "description": "The Dow Jones was lower on the stock market today. Nvidia stock hit a fresh high as Microsoft got upgraded. Warren Buffett sold some stock.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-warren-buffett-nvidia-microsoft/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-warrenbuffett-2024-06-shutt.jpg",
-            "publishedAt": "2024-06-17T14:43:22Z",
-            "content": "The Dow Jones Industrial Average was lower as Microsoft (MSFT) slipped despite a bullish call. Gold miner Newmont (NEM) popped on an upgrade on the stock market today. Nvidia (NVDA) hit another all-t… [+5148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Tesla sues ex-supplier Matthews over EV battery trade secrets",
+            "author": "CNBC",
+            "title": "Uber, Khosla, Nvidia invest in $200 million funding round for autonomous trucking startup Waabi - CNBC",
             "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9f1a1c34-3cf6-44e8-9df4-2ccf2825b5e3",
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMTgvdWJlci1raG9zbGEtbnZpZGlhLWludmVzdC1pbi1hdXRvbm9tb3VzLXRydWNraW5nLXN0YXJ0dXAtd2FhYmkuaHRtbNIBZ2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA2LzE4L3ViZXIta2hvc2xhLW52aWRpYS1pbnZlc3QtaW4tYXV0b25vbW91cy10cnVja2luZy1zdGFydHVwLXdhYWJpLmh0bWw?oc=5",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T14:43:21Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+            "publishedAt": "2024-06-18T10:46:15Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "CNBC"
             },
-            "author": "reuters.com",
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling voiding the pay, according to a letter made public on Monday.",
-            "url": "https://biztoc.com/x/18505fe5260d2c65",
-            "urlToImage": "https://biztoc.com/cdn/18505fe5260d2c65_s.webp",
-            "publishedAt": "2024-06-17T14:42:31Z",
-            "content": "Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling voiding the pay, accord… [+86 chars]"
+            "author": "Samantha Subin, Alex Harring",
+            "title": "S&P 500 futures are little changed as investors await May retail sales data: Live updates - CNBC",
+            "description": "Monday marked a winning day on Wall Street, with the S&P 500 rising to yet another record close.",
+            "url": "https://www.cnbc.com/2024/06/17/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107414671-1715697985882-gettyimages-2152909503-wallstl424104_8kq7yqbm.jpeg?v=1718656728&w=1920&h=1080",
+            "publishedAt": "2024-06-18T10:28:00Z",
+            "content": "S&amp;P 500 futures are near flat Tuesday morning after a winning day on Wall Street as investors gear up for May retail sales data.\r\nFutures linked to the broad market index inched higher by 0.03%, … [+1673 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Www.bnr.nl"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "BNR",
-            "title": "Tesla mag zelfrijdende auto's testen in China",
-            "description": "Het heeft een hoog 'voor wat hoort wat' gehalte, maar het is Elon Musk gelukt: Tesla mag volledig zelfrijdende auto's gaan testen in China.",
-            "url": "https://www.bnr.nl/podcast/tech-update/10550177/tesla-mag-zelfrijdende-auto-s-testen-in-china",
-            "urlToImage": "https://bnr-external-prod.imgix.net/67f73380281dc5d06df0b6f657990bc1c0564d74.jpg?q=45&w=1500&auto=format,compress",
-            "publishedAt": "2024-06-17T14:42:00Z",
-            "content": "Over de aflevering\r\nHet heeft een hoog 'voor wat hoort wat' gehalte, maar het is Elon Musk gelukt: Tesla mag volledig zelfrijdende auto's gaan testen in China.\r\nMusk heeft toestemming gekregen om zij… [+1988 chars]"
+            "author": "Sam Sweeney, Kevin Shalvey",
+            "title": "Boeing whistleblower steps forward ahead of CEO's testimony in Washington, senator says - ABC News",
+            "description": "Sam Mohawk is a quality assurance inspector, Sen. Richard Blumenthal said.",
+            "url": "https://abcnews.go.com/US/boeing-whistleblower-steps-forward-ahead-ceos-testimony-washington/story?id=111206197",
+            "urlToImage": "https://i.abcnewsfe.com/a/21e13d1e-73ec-4ac9-be7b-d18ad600f80f/boeing-file_1718690528586_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-18T10:18:45Z",
+            "content": "Sen. Richard Blumenthal's office on Tuesday said a current Boeing employee has come forward as a whistleblower, an announcement that comes hours before the airplane manufacturer's chief executive is … [+2610 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Marketscreener.com"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": null,
-            "title": "Tesla sues ex-supplier Matthews over EV battery trade secrets",
-            "description": "(marketscreener.com) Tesla has sued its former\nsupplier Matthews International in California federal\ncourt for allegedly stealing trade secrets related to Tesla's\nbattery-manufacturing process and sharing them with the\nelectric-vehicle giant's competitors.\n T…",
-            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-sues-ex-supplier-Matthews-over-EV-battery-trade-secrets-46986558/",
-            "urlToImage": "https://www.marketscreener.com/images/reuters/2024-06/2024-06-17T144321Z_1_LYNXMPEK5G0HB_RTROPTP_3_SPAIN-TESLA.JPG",
-            "publishedAt": "2024-06-17T14:40:19Z",
-            "content": "June 17 (Reuters) - Tesla has sued its former\r\nsupplier Matthews International in California federal\r\ncourt for allegedly stealing trade secrets related to Tesla's\r\nbattery-manufacturing process and … [+1412 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "youtube.com",
-            "title": "WSJ's Tim Higgins: Investors are excited Elon Musk can bring some of his attention back to Tesla",
-            "description": "WSJ's Tim Higgins: Investors are excited Elon Musk can bring some of his attention back to Tesla CNBC Television\nForget Elon Musk’s record pay package from Tesla. More could be on the way. CNN\nThe Big Loser in Tesla's Shareholder Vote Is Delaware The Wall Str…",
-            "url": "https://biztoc.com/x/6ae7a3bd1e2a3613",
-            "urlToImage": "https://biztoc.com/cdn/799/og.png",
-            "publishedAt": "2024-06-17T14:36:39Z",
-            "content": "WSJ's Tim Higgins: Investors are excited Elon Musk can bring some of his attention back to Tesla CNBC TelevisionForget Elon Musks record pay package from Tesla. More could be on the way. CNNThe Big L… [+126 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": "Reuters",
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "url": "https://www.investing.com/news/stock-market-news/tesla-kicks-off-legal-fight-to-reinstate-musks-pay-3486901",
-            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEA9907D_L.jpg",
-            "publishedAt": "2024-06-17T14:35:56Z",
-            "content": "By Tom Hals\r\nWILMINGTON, Delaware (Reuters) - Tesla (NASDAQ:TSLA) began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that i… [+1869 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNA"
-            },
-            "author": null,
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "WILMINGTON, Delaware : Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling voiding the pay, according to a letter made public on Monday…",
-            "url": "https://www.channelnewsasia.com/business/tesla-kicks-legal-fight-reinstate-musks-pay-4416411",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TlVg99a8--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-06-17t143144z_2_lynxmpek5g0h5_rtroptp_3_tesla-investors.jpg?itok=K2tIuXkm",
-            "publishedAt": "2024-06-17T14:31:44Z",
-            "content": "WILMINGTON, Delaware : Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling … [+1821 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Hugo Engström",
-            "title": "McDonalds slutar testa AI-drive-thru",
-            "description": "Åtminstone tillfälligt\n\n\n\n\n\n\n\n\n\n\nMcDonalds har beslutat att avsluta sitt samarbete med IBM gällande AI-drivna beställningar vid drive-thru i USA. Programmet, som har testats i över 100 restauranger sedan 2021, kommer att avvecklas senast den 26 juli. Företage…",
-            "url": "https://feber.se/samhalle/mcdonalds-slutar-testa-ai-drive-thru/468749/",
-            "urlToImage": "https://i.ytimg.com/vi/JJxBySZwBAI/hqdefault.jpg",
-            "publishedAt": "2024-06-17T14:30:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+22471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Charles Kennedy",
-            "title": "UK Renewable Energy Producers Could Be Hit by the EU Carbon Border Tax",
-            "description": "UK renewable power generators exporting electricity to the EU could be hit with the EU carbon border tax as of 2026 unless the UK and the European Union work a way to change part of the EU mechanism, British industry officials and analysts have told Reuters. …",
-            "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Renewable-Energy-Producers-Could-Be-Hit-by-the-EU-Carbon-Border-Tax.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2024-06-17_hrrvbg8mw7.jpg",
-            "publishedAt": "2024-06-17T14:30:00Z",
-            "content": "Tesla begins testing its Full…\r\nThe UAE has a uniquely…\r\nBy Charles Kennedy - Jun 17, 2024, 9:30 AM CDTUK renewable power generators exporting electricity to the EU could be hit with the EU carbon bo… [+2281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Stacksocial.com"
-            },
-            "author": "StackCommerce",
-            "title": "This Microsoft Surface Laptop is the Tesla of computers",
-            "description": "Be kind to the earth and your wallet! Get a refurbished MS Surface 3 on sale for a limited time.",
-            "url": "https://www.stacksocial.com/articles/ms-surface-b",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T14:30:00Z",
-            "content": "TL;DR: Save 20% on this refurbished Microsoft Surface Laptop 3 thats great for everyday users.\r\nSearching for the perfect laptop is in the same ballpark of stress as shopping for a car. Actually, it … [+1811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significantly impacts\" her ruling voiding the pay, according to a letter made public on Monday. Tesla wrote to Chance…",
-            "url": "https://uk.finance.yahoo.com/news/tesla-kicks-off-legal-fight-142948378.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/53599d121ec32e34679d3e8d58fc365f",
-            "publishedAt": "2024-06-17T14:29:48Z",
-            "content": "By Tom Hals\r\nWILMINGTON, Delaware (Reuters) - Tesla began its fight for legal recognition of a shareholder vote favoring Elon Musk's record compensation, telling a Delaware judge that it \"significant… [+1919 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
+            "author": "Axios",
+            "title": "Fisker bankruptcy: EV startup files Chapter 11 - Axios",
             "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ceb5142e-85fc-42c6-8c17-f22d704a1bfe",
+            "url": "https://www.axios.com/2024/06/18/fisker-files-bankruptcy-ev-fisker-ocean",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T14:29:48Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+            "publishedAt": "2024-06-18T10:09:57Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Investor's Business Daily",
-            "title": "How The SEC's Latest Elon Musk Investigation Could Hit Tesla",
-            "description": "The Wall Street Journal reported Monday that Musk waited to disclose his Twitter stake until he owned more than 9%.",
-            "url": "https://www.investors.com/news/tesla-stock-sec-latest-elon-musk-investigation/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/02/Stock-Tesla-2024-model3-01-company.jpg",
-            "publishedAt": "2024-06-17T14:27:27Z",
-            "content": "The Securities and Exchange Commission investigation into Tesla (TSLA) Chief Executive Elon Musk's tardy disclosure of his growing Twitter stock holdings in April 2022 could land him in more hot wate… [+4516 chars]"
+            "author": "Josh Schafer",
+            "title": "AI enthusiasm prompts 3 Wall Street banks to raise stock market forecasts - Yahoo Finance",
+            "description": "AI-driven earnings growth has strategists feeling even more bullish about stock returns this year.",
+            "url": "https://finance.yahoo.com/news/ai-enthusiasm-prompts-3-wall-street-banks-to-raise-stock-market-forecasts-100027154.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mkxC8FefQ7OVS3SEHIVLPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/07be2ec0-21bb-11ef-bf7f-446c7123679b",
+            "publishedAt": "2024-06-18T10:00:27Z",
+            "content": "The excitement surrounding artificial intelligence has yet to run its course on Wall Street.\r\nThree analysts recently upgraded their forecasts for the S&amp;P 500 (^GSPC) amid early signs that invest… [+4107 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Marketscreener.com"
+                "name": "Fox Business"
             },
-            "author": null,
-            "title": "Tesla kicks off legal fight to reinstate Musk's pay",
-            "description": "(marketscreener.com) Tesla began\nits fight for legal recognition of a shareholder vote favoring\nElon Musk's record compensation, telling a Delaware judge that\nit \"significantly impacts\" her ruling voiding the pay, according\nto a letter made public on Monday.\n…",
-            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-kicks-off-legal-fight-to-reinstate-Musk-s-pay-46986473/",
-            "urlToImage": "https://www.marketscreener.com/images/reuters/2024-06/2024-06-10T204647Z_1_LYNXMPEK590OZ_RTROPTP_3_TESLA-INVESTORS.JPG",
-            "publishedAt": "2024-06-17T14:26:54Z",
-            "content": "WILMINGTON, Delaware, June 17 (Reuters) - Tesla began\r\nits fight for legal recognition of a shareholder vote favoring\r\nElon Musk's record compensation, telling a Delaware judge that\r\nit \"significantl… [+1944 chars]"
+            "author": "Breck Dumas",
+            "title": "States with the happiest hourly workers -- and those with the unhappiest - Fox Business",
+            "description": "A new study from workforce platform Deputy identifies which states and professions have the happiest frontline workers, and those that have the most work to do.",
+            "url": "https://www.foxbusiness.com/economy/states-happiest-hourly-workers-unhappiest",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/iStock-1321029675.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-18T10:00:00Z",
+            "content": "America's shortage of workers has many of those still in the grind carrying an extra load these days, but the degree of happiness employees feel at the end of the day can vary greatly depending on wh… [+2190 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Peter Johnson",
-            "title": "Hyundai says EVs are ‘top priority’ in the US with massive $7.6B Metaplant opening soon",
-            "description": "Despite the competition pulling back, Hyundai is racing full speed ahead as it looks to close the gap with Tesla in the US electric vehicle market. Hyundai Motor Group CEO Chang Jae-hoon confirmed EVs are “the top priority” in the US as construction on its ma…",
-            "url": "http://electrek.co/2024/06/17/hyundai-evs-top-priority-us-7-6b-metaplant/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-EVs-US-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-17T14:26:22Z",
-            "content": "Despite the competition pulling back, Hyundai is racing full speed ahead as it looks to close the gap with Tesla in the US electric vehicle market. Hyundai Motor Group CEO Chang Jae-hoon confirmed EV… [+5047 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Epravda.com.ua"
-            },
-            "author": "Економічна правда",
-            "title": "Торговельна війна: Китай починає власне розслідування проти продуктів з ЄС",
-            "description": "Китай 17 червня розпочав розслідування щодо імпорту свинини та похідних продуктів з ЄС по штучно заниженим цінам.",
-            "url": "https://www.epravda.com.ua/news/2024/06/17/715312/",
-            "urlToImage": "https://eimg.pravda.com/images/doc/c/c/cca04b6-gettyimages-2157375605.jpg",
-            "publishedAt": "2024-06-17T14:25:49Z",
-            "content": "17 . \r\n Reuters.\r\n, 8 . . \r\n .\r\n , . , .\r\n , , , .\r\n, , 2023 6 , – .\r\n , , 620 550 .\r\n , 17 2025 , , .\r\n:\r\n 25% .\r\n 38,1%, BYD Co. Tesla Inc.\r\n , , , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Epravda.com.ua"
-            },
-            "author": "Экономическая правда",
-            "title": "Торговая война: Китай начинает собственное расследование против продуктов из ЕС",
-            "description": "Китай 17 июня начал расследование в отношении импорта свинины и производных продуктов из ЕС по искусственно заниженным ценам.",
-            "url": "https://www.epravda.com.ua/rus/news/2024/06/17/715312/",
-            "urlToImage": "https://eimg.pravda.com/images/doc/c/c/cca04b6-gettyimages-2157375605.jpg",
-            "publishedAt": "2024-06-17T14:25:49Z",
-            "content": "17 . \r\n Reuters.\r\n, 8 . . \r\n .\r\n , . , .\r\n , , , .\r\n, , 2023 6 , - .\r\n , , 620 550 .\r\n , 17 2025 , , .\r\n:\r\n 25% .\r\n 38,1%, BYD Co. Tesla Inc.\r\n , , , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dealcatcher.com"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Amazon - 18000mAh Cordless Electric Air Compressor W/Touch Screen/Gauge $39.99",
-            "description": "Get this 18000mAh Cordless Electric Air Compressor W/Touch Screen/Gauge for $39.99 after Amazon promo code. Enter code at checkout to save. Shipping is included.<br /><br /><strong>More Ways to Save at Amazon:</strong><ul><li>Don't already have Amazon Prime? …",
-            "url": "https://www.dealcatcher.com/automotive?offer=998203823",
-            "urlToImage": "https://app.dealcatcher.com/bigly/998203823-72.png",
-            "publishedAt": "2024-06-17T14:21:32Z",
-            "content": "Deco Home Level 2 EV Charging Station, 9.6KW, 40A, 240V, SAE J1772 w/ Tesla Plug"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dealnews.com"
-            },
-            "author": null,
-            "title": "Netvue Birdfy AI Smart Bird Feeder w/ Camera, Solar Panel for $150 + free shipping",
-            "description": "That's $50 under our January mention and $130 under list price. Buy Now at Walmart \r\nFeatures\r\n <ul> <li>IP65 waterproof</li> <li>recognizes 6,000+ species</li> <li>microphone</li> <li>auto-capture images or videos</li> <li>SD card storage expansion</li> <li>…",
-            "url": "https://www.dealnews.com/products/Netvue-Birdfy-AI-Smart-Bird-Feeder-w-Camera-Solar-Panel/464503.html",
-            "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/mrlzman8fk4zkjqsua34.jpg",
-            "publishedAt": "2024-06-17T14:18:49Z",
-            "content": "moreShop all sorts of gadgets and accessories, many of which are customizable. We've pictured the Multi Tool Gadget Glove with Lights for $11.66 ($3 off). You'll also find cases for various devices, … [+91 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Interia.pl"
-            },
-            "author": "Krzysztof Mocek",
-            "title": "Niespodziewany efekt ceł na chińskie auta. Zdrożeją modele europejskie",
-            "description": "W ubiegłym tygodniu Komisja Europejska poinformowała o nałożeniu tymczasowych ceł na chińskie marki sprzedające swoje elektryczne auta w Europie. Jak się jednak okazuje, decyzja ta uderza także w producentów niepochodzących z Chin, ale tam właśnie produkujący…",
-            "url": "https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-niespodziewany-efekt-cel-na-chinskie-auta-zdrozeja-modele-eu,nId,7579858",
-            "urlToImage": "https://i.iplsc.com/-/000IKRYZSB88FG1Q-C461-F4.jpg",
-            "publishedAt": "2024-06-17T14:18:45Z",
-            "content": "12 czerwca 2024 Komisja Europejska ogosia wprowadzenie tymczasowych ce na samochody elektryczne importowane z Pastwa rodka. Dla niektórych marek opaty zostay ustalone indywidualnie, natomiast pozosta… [+2927 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Fred Lambert",
-            "title": "Former Tesla charging members join Revel",
-            "description": "Three of Tesla’s top former Tesla charging members in the Northeast have joined Revel to continue deploying EV charging stations.\n\n\n\n more…",
-            "url": "http://electrek.co/2024/06/17/former-tesla-charging-members-join-revel/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Model-Y-taxi-fleet-revel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-06-17T14:15:57Z",
-            "content": "Three of Tesla’s top former Tesla charging members in the Northeast have joined Revel to continue deploying EV charging stations.\r\nIn April, Elon Musk fired Tesla’s entire 500-people charging team to… [+2630 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "investorplace.com",
-            "title": "Up 100% or More in 2024, Is It Too Late to Buy These 3 Stocks?",
-            "description": "Investing in stocks to buy that already surged over 100% in 2024 presents a complex challenge. On one hand, there’s a natural reluctance to go against strong market momentum—a strategy that has often backfired for those attempting to predict a downturn, as se…",
-            "url": "https://biztoc.com/x/ee41823366ce9d6a",
-            "urlToImage": "https://biztoc.com/cdn/ee41823366ce9d6a_s.webp",
-            "publishedAt": "2024-06-17T14:14:52Z",
-            "content": "Investing in stocks to buy that already surged over 100% in 2024 presents a complex challenge. On one hand, theres a natural reluctance to go against strong market momentuma strategy that has often b… [+142 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PCMag.com"
-            },
-            "author": "Γιώργος K.",
-            "title": "Η Tesla καθυστερεί τις παραδόσεις του Cybertruck λόγω προβλήματος στους υαλοκαθαριστήρες",
-            "description": "Οι οδηγοί αναφέρουν δυσλειτουργία των υαλοκαθαριστήρων σε καταρρακτώδη βροχή, προκαλώντας \"εξαιρετικά επικίνδυνες\" συνθήκες.",
-            "url": "https://gr.pcmag.com/cars-auto/47835/e-tesla-kathusterei-tis-paradoseis-tou-cybertruck-logo-problematos-stous-ualokatharisteres",
-            "urlToImage": "https://sm.pcmag.com/t/pcmag_gr/news/t/tesla-dela/tesla-delays-cybertruck-deliveries-due-to-windshield-wiper-i_vj2n.1200.jpg",
-            "publishedAt": "2024-06-17T14:10:42Z",
-            "content": "PCMag is obsessed with culture and tech, offering smart, spirited coverage of the products and innovations that shape our connected lives and the digital trends that keep us talking."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "tipranks.com",
-            "title": "Elon Musk: Tesla CEO May Be About to Clash with the SEC…Again",
-            "description": "Tesla (NASDAQ:TSLA) CEO Elon Musk’s past run-ins with the SEC (Securities and Exchange Commission) are a well-documented affair. It seems like Mush...",
-            "url": "https://biztoc.com/x/837a4f2b114d8b57",
-            "urlToImage": "https://biztoc.com/cdn/837a4f2b114d8b57_s.webp",
-            "publishedAt": "2024-06-17T14:10:33Z",
-            "content": "Tesla (NASDAQ:TSLA) CEO Elon Musks past run-ins with the SEC (Securities and Exchange Commission) are a well-documented affair. It seems like Mush...\r\nThis story appeared on tipranks.com, 2024-06-17."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dealcatcher.com"
-            },
-            "author": null,
-            "title": "Best Buy - Cube GPS Vehicle Tracker $64.99",
-            "description": "Get this Cube GPS Vehicle Tracker for $64.99 after instant discount with no promo code. Free shipping.",
-            "url": "https://www.dealcatcher.com/automotive?offer=998249414",
-            "urlToImage": "https://app.dealcatcher.com/bigly/998249414-12.jpg_maxHeight_640_maxWidth_550",
-            "publishedAt": "2024-06-17T14:10:29Z",
-            "content": "Deco Home Level 2 EV Charging Station, 9.6KW, 40A, 240V, SAE J1772 w/ Tesla Plug"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Reuters",
-            "title": "Berkshire Hathaway reduz novamente sua participação na BYD",
-            "description": "A Berkshire Hathaway, de Warren Buffett, reduziu novamente sua participação na BYD, a montadora ...",
-            "url": "https://www.terra.com.br/economia/berkshire-hathaway-reduz-novamente-sua-participacao-na-byd,57a08239009db1bcfe6ef026140ba1335va647co.html",
-            "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-            "publishedAt": "2024-06-17T14:09:28Z",
-            "content": "A Berkshire Hathaway, de Warren Buffett, reduziu novamente sua participação na BYD, a montadora chinesa que no ano passado ultrapassou a Tesla como a maior fabricante de veículos elétricos do mundo. … [+1169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fark.com"
-            },
-            "author": null,
-            "title": "再見三巨頭 [Obvious]",
-            "description": "<table> <tr><td> </td><td> [link] [4 comments] </td></tr></table>",
-            "url": "https://www.fark.com/comments/13291120",
-            "urlToImage": "https://usrimg-full.fark.net/o/ov/fark_ovEh91tuAjAbTxyTRbtBNrU-tGw.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1719201600&Signature=H46mQdr0NIIG1wdw7tDy32yFAlw%3D",
-            "publishedAt": "2024-06-17T14:08:09Z",
-            "content": "Top 10 selling vehicles in the USA, 20231.  Ford F-Series2.  Chevrolet Silverado3.  Ram Pickup4.  Toyota RAV45.  Tesla Model Y6.  Honda CR-V7.  GMC Sierra8.  Toyota Camry9.  Nissan Rogue10.  Jeep Gra… [+354 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "Jean-Baptiste Passieux",
-            "title": "Les originales voitures électriques de Polestar débarquent enfin en France : voici quand et quels modèles",
-            "description": "Les rumeurs bruissaient depuis plusieurs mois, c'est désormais officiel : Polestar, marque cousine de Volvo, arrivera enfin en France en 2025. L'occasion de profiter de leurs voitures électriques, après plusieurs années d'absence. Voici à quoi s'attendre.",
-            "url": "https://www.frandroid.com/marques/polestar/2050858_les-originales-voitures-electriques-de-polestar-debarquent-enfin-en-france-voici-quand-et-quels-modeles",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/04/polestar-4-frandroid-666124-20230418-polestar-4.jpg",
-            "publishedAt": "2024-06-17T14:05:08Z",
-            "content": "Les rumeurs bruissaient depuis plusieurs mois, c'est désormais officiel : Polestar, marque cousine de Volvo, arrivera enfin en France en 2025. L'occasion de profiter de leurs voitures électriques, ap… [+3227 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": "Investing.com",
-            "title": "PodcastOne (Nasdaq: PODC) Adds Tactful Pettiness Podcast to Its Network",
-            "description": "PodcastOne (Nasdaq: PODC) Adds Tactful Pettiness Podcast to Its Network",
-            "url": "https://www.investing.com/news/press-releases/podcastone-nasdaq-podc-adds-tactful-pettiness-podcast-to-its-network-93CH-3486847",
-            "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
-            "publishedAt": "2024-06-17T14:04:05Z",
-            "content": "- Hosted by Cody Rigsby and Andrew Chappelle\r\n- 8th New Podcast Joining PodcastOne Network This Fiscal Year, 39th In Last 12 Months \r\n- Total of 184 Shows on the PodcastOne Network\r\n- Combined Social… [+9933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tuxboard.com"
-            },
-            "author": "B. L.",
-            "title": "Voiture électrique: cette batterie révolutionnaire va tout changer",
-            "description": "Les voitures électriques sont de plus en plus populaires. D’ailleurs, leur consommation d’énergie est un sujet qui suscite beaucoup d’intérêt....\nL’article Voiture électrique: cette batterie révolutionnaire va tout changer est apparu en premier sur Tuxboard.",
-            "url": "https://www.tuxboard.com/voiture-electrique-cette-batterie-revolutionnaire-va-tout-changer-14062024/",
-            "urlToImage": "https://www.tuxboard.com/wp-content/uploads/2024/06/Voiture-electrique-tout-savoir-sur-cette-batterie-liquide-pour-faire-un-plein-classique.jpeg",
-            "publishedAt": "2024-06-17T14:02:08Z",
-            "content": "Les voitures électriques permettent de réduire la pollution atmosphérique. Avez-vous déjà entendu parler de la batterie liquide ?\r\nLes voitures électriques sont de plus en plus populaires. D’ailleurs… [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Unwire.hk"
-            },
-            "author": "Oscar",
-            "title": "路透：Tesla 獲批准上海測試 FSD 系統　10 輛 Tesla 落地測試自動駕駛",
-            "description": "據外媒報道，Tesla 已經獲得上海市自動駕駛示範區的道路測試牌照，目前正在測試其全自動駕駛系統（FSD，Full-Self Driving），據悉已允許 10 輛 Tesla 落地測試。據《Car News China》報道，中國上海市南匯新城允許 10 輛 Tesla 測試 FSD 系統。上海自由貿易區管理委員會已確認上述消息，但未具體說明甚麼時候正式開始。Tesla 需要先在中華人民共和國工業和信息化部（MIIT）註冊 FSD 軟件，獲得批准後才能進行公開道路測試。據《Car News China》報道，T…",
-            "url": "https://unwire.hk/2024/06/17/teslas-shanghai-fsd-test/fun-tech/",
-            "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/06/teslafsd01.jpg",
-            "publishedAt": "2024-06-17T14:00:43Z",
-            "content": "Tesla FSDFull-Self Driving 10 Tesla \r\nCar News China 10 Tesla FSD Tesla MIIT FSD \r\nCar News ChinaTesla FSD FSD Tesla Telsa FSD \r\nReutersCar News China\r\n:<li>Tesla Master Plan </li> <li>Elon Musk Opti… [+58 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Bobby Green",
-            "title": "Porsche Cayman och Boxster slutar tillverkas nästa höst",
-            "description": "Sen blir det el för hela slanten\n\n\n\n\n\n\nRedan våren 2019 började det snackas om att Porsches modeller Cayman och Boxster skulle komma med eldrift. Nu sägs det att den sista spiken i kistan för modellerna är i oktober nästa år, efter det kommer dagens duo istäl…",
-            "url": "https://feber.se/bil/porsche-cayman-och-boxster-slutar-tillverkas-nasta-host/468739/",
-            "urlToImage": "https://static.feber.se/article_images/59/18/09/591809.jpg",
-            "publishedAt": "2024-06-17T14:00:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+20938 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "OilPrice.com",
-            "title": "Tesla and Baidu Partner for Full Self-Driving Test",
-            "description": "Beijing recently 'greenlighted' Tesla the ability to roll out its driver-assistance system, known as \"Full Self-Driving,\" or FSD. A new report suggests Tesla is testing vehicles equipped with FSD on city streets and highways in the world's largest car market.…",
-            "url": "https://oilprice.com/Energy/Energy-General/Tesla-and-Baidu-Partner-for-Full-Self-Driving-Test.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-06-17_ojidowb10u.jpg",
-            "publishedAt": "2024-06-17T14:00:00Z",
-            "content": "Aramco has just priced its…\r\nDespite significant efforts and investments,…\r\nConocoPhillips and Marathon Oil announced…\r\nBy ZeroHedge - Jun 17, 2024, 9:00 AM CDT\r\nBeijing recently 'greenlighted' Tesla… [+1519 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Isegoria.net"
-            },
-            "author": "Isegoria",
-            "title": "If conventional thinking makes your mission impossible, then unconventional thinking is necessary",
-            "description": "Musk calculated that on a good day he made a hundred command decisions as he walked the floor of his Tesla factory, Walter Isaacson explains (in his biography of Elon): “At least twenty percent are going to be wrong, and we’re going to alter them later,” he s…",
-            "url": "https://www.isegoria.net/2024/06/if-conventional-thinking-makes-your-mission-impossible-then-unconventional-thinking-is-necessary/",
+            "title": "Forget AMD: 2 Artificial Intelligence (AI) Stocks to Buy Instead - The Motley Fool",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
             "urlToImage": null,
-            "publishedAt": "2024-06-17T13:59:35Z",
-            "content": "Musk calculated that on a good day he made a hundred command decisions as he walked the floor of his Tesla factory, Walter Isaacson explains (in his biography of Elon): At least twenty percent are go… [+6472 chars]"
+            "publishedAt": "2024-06-18T09:15:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Biztoc.com"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "inc.com",
-            "title": "A Battery Breakthrough Could Be a Game Changer, Business Tax Outlook, and More",
-            "description": "TDK, which supplies batteries to Apple and Tesla, announced it has developed a battery with 100 times the energy storage capacity that can be used in smaller devices and wearable tech.",
-            "url": "https://biztoc.com/x/3b4b5b9967a01240",
-            "urlToImage": "https://biztoc.com/cdn/3b4b5b9967a01240_s.webp",
-            "publishedAt": "2024-06-17T13:58:41Z",
-            "content": "TDK, which supplies batteries to Apple and Tesla, announced it has developed a battery with 100 times the energy storage capacity that can be used in smaller devices and wearable tech.\r\nThis story ap… [+29 chars]"
+            "author": "Maki Shiraki, Daniel Leussink",
+            "title": "Toyota shareholders re-elect chairman despite governance concerns - Reuters",
+            "description": "Toyota Chairman Akio Toyoda and nine other members of the automaker's board were re-elected at an annual general meeting on Tuesday, with shareholders shrugging off concerns about governance and certification test scandals.",
+            "url": "https://www.reuters.com/business/autos-transportation/toyota-holds-agm-under-pressure-overseas-with-wide-support-home-2024-06-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/RZWFXECAYVLI3GWMOU755WH7UA.jpg?auth=8321514404de0282d4a53850b6cf6848ad5527797e1c4e9c90364fdb6decf2e3&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-06-18T08:06:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Presse-citron"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Tristan Carballeda",
-            "title": "Les 5 projets et voitures de Tesla qui vont changer son avenir",
-            "description": "Tesla vit un moment charnière, l'entreprise est en grande difficulté financière. Elle doit se redresser rapidement et ses 3 projets pourraient l'aider.",
-            "url": "https://www.presse-citron.net/les-3-projets-et-voitures-de-tesla-qui-vont-changer-son-avenir/",
-            "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/tesla-unsplash-carter-baran.jpg",
-            "publishedAt": "2024-06-17T13:56:46Z",
-            "content": "L’année 2024 de Tesla ne restera pas dans le livre d’or de l’entreprise. Après un premier trimestre très compliqué financièrement, la société d’Elon Musk ne semble pas avoir relevé la tête avant l’ét… [+4105 chars]"
+            "author": "ELAINE KURTENBACH",
+            "title": "Stock market today: Asian shares mostly gain after Wall St rallies to new records - The Associated Press",
+            "description": "Shares are mostly higher in Asia after U.S. stocks rallied to more records, with gains for technology companies pushing the benchmarks higher. U.S. futures were flat and oil prices declined. On Monday, the S&P 500 rose 0.8%, beating an all-time high it set on…",
+            "url": "https://apnews.com/article/stock-market-rates-china-4015f748b375b522f4d45da24e6344db",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6dbf440/2147483647/strip/true/crop/3145x1769+0+164/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F0c%2F450a58aa1c6b1a0eaeaaa7d1adf4%2F30fc0857dac547d2917f9daf76ea7f75",
+            "publishedAt": "2024-06-18T05:44:00Z",
+            "content": "BANGKOK (AP) Shares were mostly higher in Asia on Tuesday after U.S. stocks rallied to more records, with gains for technology companies pushing the benchmarks higher. \r\nU.S. futures were flat and oi… [+4341 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Enriquedans.com"
+                "name": "CNBC"
             },
-            "author": "Enrique Dans",
-            "title": "Elon Musk como factor diferencial",
-            "description": "En las nubes debe estar Elon Musk con el resultado de la votación entre los accionistas de Tesla que, con nada menos que un aplastante 77%, se ratifica en la concesión del mareante bonus de 56,000 millones de dólares en acciones de la compañía.  La votación a…",
-            "url": "https://www.enriquedans.com/2024/06/elon-musk-como-factor-diferencial.html",
-            "urlToImage": "https://www.enriquedans.com/wp-content/uploads/2024/06/Elon-on-a-cloud.jpg",
-            "publishedAt": "2024-06-17T13:45:12Z",
-            "content": "En las nubes debe estar Elon Musk con el resultado de la votación entre los accionistas de Tesla que, con nada menos que un aplastante 77%, se ratifica en la concesión del mareante bonus de 56,000 mi… [+3363 chars]"
+            "author": "Jenni Reid",
+            "title": "French stocks face worse to come from political risk, Goldman strategists say - CNBC",
+            "description": "French blue-chip stocks on the CAC 40 index suffered their worst week since 2022 amid political uncertainty.",
+            "url": "https://www.cnbc.com/2024/06/18/french-stocks-face-worse-to-come-from-political-risk-goldman-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107419140-1716468749939-SG-Macron-03.jpg?v=1716468757&w=1920&h=1080",
+            "publishedAt": "2024-06-18T05:15:19Z",
+            "content": "French stocks are likely to take a further beating from political risk in the weeks and months ahead, but the impact will be focused in certain areas, according to strategists at Goldman Sachs.\r\nBlue… [+2900 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investing.com"
+                "name": "ForexLive"
             },
-            "author": "Investing.com",
-            "title": "Forrester's 2024 US Customer Experience Index: Brands' CX Quality Is At An All-Time Low",
-            "description": "Forrester's 2024 US Customer Experience Index: Brands' CX Quality Is At An All-Time Low",
-            "url": "https://www.investing.com/news/press-releases/forresters-2024-us-customer-experience-index-brands-cx-quality-is-at-an-alltime-low-93CH-3486782",
-            "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
-            "publishedAt": "2024-06-17T13:40:04Z",
-            "content": "Only 3% of companies are currently customer-obsessed and put their customers' needs front and center\r\n NASHVILLE, Tenn., &amp; CAMBRIDGE, Mass.--(BUSINESS WIRE)--According to Forrester's (Nasdaq: FOR… [+4806 chars]"
+            "author": "Justin Low",
+            "title": "RBA leaves cash rate unchanged at 4.35%, as expected - ForexLive",
+            "description": "Prior 4.35% Inflation has fallen substantially since its peak in 2022 Conditions in the labour market eased further over the past month But it is tighter than is consistent with sustained full empl...",
+            "url": "https://www.forexlive.com/centralbank/rba-leaves-cash-rate-unchanged-at-435-as-expected-20240618/",
+            "urlToImage": "https://images.forexlive.com/images/rba_id_0b87faa2-13b4-4849-8123-7f5d81becf70_size975.jpg",
+            "publishedAt": "2024-06-18T04:30:00Z",
+            "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "El Financiero"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "Sonia Coronado",
-            "title": "Alcanzaría IED los 25 mmdd en NL",
-            "description": "En dicho lapso la Entidad recibió tan solo mil 350 millones de dólares (mdd) un 44.8 por ciento en comparación anual.",
-            "url": "https://www.elfinanciero.com.mx/monterrey/2024/06/17/alcanzaria-ied-los-25-mmdd-en-nl/",
-            "urlToImage": "https://www.elfinanciero.com.mx/resizer/o26xEM6-3gTE_4Ap4FRwI_DeH_M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I3PSDDXYLNHUBFNIEFLN7HITRY.jpeg",
-            "publishedAt": "2024-06-17T13:40:03Z",
-            "content": "En los próximos dos o tres años, Nuevo León (NL) captaría alrededor de 25 mil millones de dólares (mmdd) por concepto de inversión extranjera directa (IED), la más alta que haya recibido, superando a… [+2439 chars]"
+            "author": "Malcolm Scott",
+            "title": "Goldman Sees US Jobs at Inflection Point, Sticks to Two Cut Call - Bloomberg",
+            "description": "The US labor market stands at a potential “inflection point” where any further softness in demand for workers will hit jobs, not just job openings, according to economists at Goldman Sachs Group Inc.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-18/goldman-sees-us-jobs-at-inflection-point-sticks-to-two-cut-call",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iimiFvSVybjw/v0/1200x800.jpg",
+            "publishedAt": "2024-06-18T03:56:00Z",
+            "content": "The US labor market stands at a potential inflection point where any further softness in demand for workers will hit jobs, not just job openings, according to economists at Goldman Sachs Group Inc.\r\n… [+206 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Itc.ua"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Вадим Карпусь",
-            "title": "Tesla в режиме самостоятельного управления врезалась в припаркованную полицейскую машину с включенными сигналами",
-            "description": "По данным отдела полиции Фуллертона, электромобиль Tesla в режиме «автономного управления» врезался в припаркованную полицейскую машину. Во время аварии никто не пострадал. Однако на видео с бодикамеры полицейского видно, как он вынужден отбежать в сторону, ч…",
-            "url": "https://itc.ua/news/tesla-v-rezhyme-samostoyatelnogo-upravlenyya-vrezalas-v-pryparkovannuyu-polytsejskuyu-mashynu-s-vklyuchennymy-sygnalamy/",
-            "urlToImage": "https://itc.ua/wp-content/uploads/2024/06/162529.jpg",
-            "publishedAt": "2024-06-17T13:35:57Z",
-            "content": "5 hotline.finance. ! ITC, 15%.\r\n , Tesla « » . . , , .\r\n , , , . - . , , , , . « » , Tesla « » . .\r\n , Tesla, . , , . , Tesla .\r\n Tesla Full Self-Driving (FSD) Full Self-Driving (Supervised). «Superv… [+142 chars]"
+            "author": "Sabela Ojea",
+            "title": "Zyn Nicotine Pouch Maker Halts Sales on Its Website - The Wall Street Journal",
+            "description": "Sales were halted after Swedish Match North America received a subpoena regarding the sales of banned flavored nicotine pouches",
+            "url": "https://www.wsj.com/business/retail/philip-morris-international-suspends-zyn-com-sales-amid-d-c-probe-over-banned-flavored-nicotine-pouches-8f61ae5e",
+            "urlToImage": "https://images.wsj.net/im-971051/social",
+            "publishedAt": "2024-06-18T03:39:00Z",
+            "content": "The maker of Zyn nicotine pouches suspended nationwide sales on its U.S. website as local officials in Washington, D.C., investigate the companys compliance with the districts ban on the sale of flav… [+478 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Olhardigital.com.br"
+                "name": "Financial Times"
             },
-            "author": "Alessandro Di Lorenzo",
-            "title": "Robô humanoide da Tesla está quase pronto para ação, diz Musk",
-            "description": "Elon Musk garantiu que mais de mil robôs Optimus estarão em funcionamento nas fábricas da Tesla no ano que vem\nO post Robô humanoide da Tesla está quase pronto para ação, diz Musk apareceu primeiro em Olhar Digital.",
-            "url": "https://olhardigital.com.br/2024/06/17/pro/robo-humanoide-da-tesla-esta-quase-pronto-para-acao-diz-musk/",
-            "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/06/optimus-1.jpg",
-            "publishedAt": "2024-06-17T13:35:03Z",
-            "content": "O que vem à sua mente quando falamos da Tesla? Você provavelmente está pensando em veículos elétricos, mas saiba que a grande aposta da companhia de Elon Musk é no robô humanoide Optimus. Segundo o p… [+1821 chars]"
+            "author": "Mohamed El-Erian",
+            "title": "Fed needs to cut interest rates sooner rather than later - Financial Times",
+            "description": "Delay by US central bank in easing monetary policy could jeopardise soft economic landing",
+            "url": "https://www.ft.com/content/40301e87-ca39-4b60-a9f2-88633e5f8ea7",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F53e9ec6b-4469-427b-ac3c-69ca6c3403bd.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-06-18T03:00:26Z",
+            "content": "The writer is president of Queens College, Cambridge, and an adviser to Allianz and Gramercy\r\nIt doesnt matter when the Federal Reserve starts cutting rates. What really matters is where they finish.… [+4411 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "Forget Elon Musk’s record pay package from Tesla. More could be on the way. - CNN",
-            "description": "Forget Elon Musk’s record pay package from Tesla. More could be on the way.CNN The Big Loser in Tesla's Shareholder Vote Is DelawareThe Wall Street Journal Musk's pay package approval was a mistake: institutional shareholdersBusiness Insider Opinion | Tesla’s…",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=174172421",
-            "urlToImage": null,
-            "publishedAt": "2024-06-17T13:34:48Z",
-            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
             "author": null,
-            "title": "Ensure Complete Transparency Of EVMs Or Abolish Them: Rahul Gandhi",
-            "description": "Raising questions on the reliability of EVMs, Congress leader Rahul Gandhi on Monday asked the Election Commission to ensure complete transparency of the machines and processes or abolish them.",
-            "url": "https://www.ndtv.com/india-news/ensure-complete-transparency-of-evms-or-abolish-them-rahul-gandhi-to-poll-panel-5909919",
-            "urlToImage": "https://c.ndtvimg.com/2024-06/0nv6ik_rahul-gandhi_625x300_04_June_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240616.345",
-            "publishedAt": "2024-06-17T13:33:26Z",
-            "content": "Samajwadi Party chief Akhilesh Yadav has also questioned the credibility of EVMs.\r\nNew Delhi: Raising questions on the reliability of EVMs, Congress leader Rahul Gandhi on Monday asked the Election C… [+4102 chars]"
+            "title": "China’s Surge in Solar and Hydro Point to Early Carbon Peak - Bloomberg",
+            "description": "China has reduced power generation from fossil fuels as output from sunlight and water surges, feeding hopes that the world’s biggest polluter may have peaked emissions years before its own deadline.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-18/china-s-surge-in-solar-and-hydro-point-to-early-carbon-peak",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwQUGwq6rGx8/v1/1200x674.jpg",
+            "publishedAt": "2024-06-18T02:22:00Z",
+            "content": "China has reduced power generation from fossil fuels as output from sunlight and water surges, feeding hopes that the worlds biggest polluter may have peaked emissions years before its own deadline.\r… [+369 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Marketscreener.com"
+                "name": "cleveland.com"
             },
-            "author": null,
-            "title": "Forrester's 2024 US Customer Experience Index: Brands' CX Quality Is At An All-Time Low",
-            "description": "(marketscreener.com) \nOnly 3% of companies are currently customer-obsessed and put their customers’ needs front and center\n\nhttps://www.marketscreener.com/quote/stock/FORRESTER-RESEARCH-INC-9348/news/Forrester-s-2024-US-Customer-Experience-Index-Brands-CX-Qua…",
-            "url": "https://www.marketscreener.com/quote/stock/FORRESTER-RESEARCH-INC-9348/news/Forrester-s-2024-US-Customer-Experience-Index-Brands-CX-Quality-Is-At-An-All-Time-Low-46986046/",
-            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-            "publishedAt": "2024-06-17T13:31:06Z",
-            "content": "Only 3% of companies are currently customer-obsessed and put their customers needs front and center\r\nAccording to Forresters (Nasdaq: FORR) US Customer Experience Index (CX Index) rankings, CX qualit… [+4640 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Hugo Engström",
-            "title": "Apple Watch Series 10 sägs bli större och tunnare",
-            "description": "Båda storlekarna kan bli 4 mm större\n\n\n\n\n\n\nApple Watch Series 10 kommer att bli tunnare och få större skärmstorlekar än tidigare modeller, säger Apple-analytikern Ming-Chi Kuo. I ett inlägg på Medium säger Kuo att de nya skärmstorleksalternativen för nästa ge…",
-            "url": "https://feber.se/mobil/apple-watch-series-10-sags-bli-storre-och-tunnare/468748/",
-            "urlToImage": "https://static.feber.se/article_images/59/18/27/591827.jpg",
-            "publishedAt": "2024-06-17T13:30:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+20565 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "cnn.com",
-            "title": "Forget Elon Musk’s record pay package from Tesla. More could be on the way",
-            "description": "Tesla shareholders on Thursday confirmed they want Elon Musk to get a massive record pay package for running Tesla for the last six years. The question now is, how much will he get going forward?\nThe package, made up of 303 million stock options worth more th…",
-            "url": "https://biztoc.com/x/bc39f55315d22430",
-            "urlToImage": "https://biztoc.com/cdn/bc39f55315d22430_s.webp",
-            "publishedAt": "2024-06-17T13:27:17Z",
-            "content": "Tesla shareholders on Thursday confirmed they want Elon Musk to get a massive record pay package for running Tesla for the last six years. The question now is, how much will he get going forward?The … [+130 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "theglobeandmail.com",
-            "title": "Warren Buffett’s Berkshire Hathaway trims stake in Chinese EV maker BYD",
-            "description": "Warren Buffett’s Berkshire Hathaway BRK-B-N has again trimmed its stake in BYD , the Chinese company that last year surpassed Tesla as the world’s largest electric vehicle maker.\nBerkshire sold 1.3 million Hong Kong-listed BYD shares for HK$310.5-million ($39…",
-            "url": "https://biztoc.com/x/b3d6014cbc339d49",
-            "urlToImage": "https://biztoc.com/cdn/799/og.png",
-            "publishedAt": "2024-06-17T13:25:46Z",
-            "content": "Warren Buffetts Berkshire Hathaway BRK-B-N has again trimmed its stake in BYD , the Chinese company that last year surpassed Tesla as the worlds largest electric vehicle maker.Berkshire sold 1.3 mill… [+140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "tipranks.com",
-            "title": "Tesla Stock News: Autonomous Driving in China, Cyber Truck Delay, and the Optimus Opportunity",
-            "description": "https://www.tipranks.com/news/tesla-stock-autonomous-driving-in-china-cyber-truck-delay-and-the-optimus-opportunity?utm_source=biztoc.com&utm_medium=referral",
-            "url": "https://biztoc.com/x/c45a3e1d24d2eda3",
-            "urlToImage": "https://biztoc.com/cdn/c45a3e1d24d2eda3_s.webp",
-            "publishedAt": "2024-06-17T13:25:26Z",
-            "content": "https://www.tipranks.com/news/tesla-stock-autonomous-driving-in-china-cyber-truck-delay-and-the-optimus-opportunity?utm_source=biztoc.com&amp;utm_medium=referral\r\nThis story appeared on tipranks.com,… [+11 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tecmundo.com.br"
-            },
-            "author": "Ramalho Lima",
-            "title": "Elon Musk diz que a Tesla valerá US$ 30 trilhões em poucos anos",
-            "description": "Elon Musk fez uma previsão, na última quinta-feira (13), bem otimista sobre seus negócios: que a Tesla, eventualmente, valerá US$ 30 milhões. O executivo não determinou quando exatamente isso aconteceria, mas da maneira como justificou seu cálculo, não demora…",
-            "url": "https://www.tecmundo.com.br/mercado/286012-elon-musk-diz-tesla-valera-us-30-trilhoes-anos.htm",
-            "urlToImage": "https://tm.ibxk.com.br/2024/06/17/17102149877080.jpg?ims=1200xorig",
-            "publishedAt": "2024-06-17T13:21:53Z",
-            "content": "Elon Musk fez uma previsão, na última quinta-feira (13), bem otimista sobre seus negócios: que a Tesla, eventualmente, valerá US$ 30 milhões. O executivo não determinou quando exatamente isso acontec… [+2043 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Conversation Africa"
-            },
-            "author": "Michel Fouquin, Professeur d'Economie à la Faculté de Sciences Sociales et Économiques (FASSE) , Conseiller au CEPII, CEPII",
-            "title": "Véhicules électriques : la domination chinoise en 10 questions",
-            "description": "Grâce à une stratégie lancée il y a bientôt 30 ans, la Chine s’est imposée en leader sur le marché des véhicules électriques.",
-            "url": "https://theconversation.com/vehicules-electriques-la-domination-chinoise-en-10-questions-230285",
-            "urlToImage": "https://images.theconversation.com/files/597504/original/file-20240530-19-v51q61.jpg?ixlib=rb-4.1.0&rect=0%2C676%2C4013%2C2003&q=45&auto=format&w=1356&h=668&fit=crop",
-            "publishedAt": "2024-06-17T13:21:15Z",
-            "content": "Le constructeur chinois BYD a dépassé Tesla pour devenir leader sur le marché des véhicules électriques. Jengtingchen/Wikimedia, CC BY-SA\r\nL’industrie des véhicules électriques est devenue, avec plus… [+7530 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Caradisiac.com"
-            },
-            "author": "Cédric Pinatel",
-            "title": "Quelles futures voitures chez Tesla ?",
-            "description": "Alors que ses ventes stagnent ou reculent, que prévoit Tesla comme nouveaux modèles à l’avenir ? La stratégie du constructeur américain est difficile à suivre en ce moment.",
-            "url": "https://www.caradisiac.com/quelles-futures-voitures-chez-tesla-209407.htm",
-            "urlToImage": "https://images.caradisiac.com/images/9/4/0/7/209407/S7-209407-805395.jpg",
-            "publishedAt": "2024-06-17T13:20:03Z",
-            "content": "« Nous produirons une nouvelle voiture à 25 000 dans lusine de Berlin dici 2025 », voilà ce qu'autait affirmé Elon Musk lannée dernière lors dune visite à lusine allemande d'après les journalistes de… [+2014 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Peter Kafka",
-            "title": "Here's another reason for Elon Musk to support Trump",
-            "description": "The SEC, led by a Biden appointee, is poking around Elon Musk's 2022 Twitter deal. A new report suggests it might push for severe penalties this time.",
-            "url": "https://www.businessinsider.com/elon-musk-sec-probe-reason-to-support-trump-2024-6",
-            "urlToImage": "https://i.insider.com/66703509764df161125a4d36?width=1200&format=jpeg",
-            "publishedAt": "2024-06-17T13:14:07Z",
-            "content": "Elon Musk hasn't said whether he's backing Donald Trump.Lisa O'Connor/AFP/Getty Images and AP Photo/Chris Carlson\r\n<ul><li>Elon Musk says he voted for Joe Biden in 2020. He seems increasingly interes… [+2634 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dealcatcher.com"
-            },
-            "author": null,
-            "title": "yitamotor - Yitamotor Extendable Heated Towing Mirrors Power & LED Turn Signal $111.99",
-            "description": "Use yitamotor promo code to save on this Yitamotor Extendable Heated Towing Mirrors Power & LED Turn Signal . Free shipping.  For 2007-2014 Chevy Silverado GMC Sierra.",
-            "url": "https://www.dealcatcher.com/automotive?offer=998249357",
-            "urlToImage": "https://app.dealcatcher.com/bigly/998249357-690.png",
-            "publishedAt": "2024-06-17T13:11:23Z",
-            "content": "Deco Home Level 2 EV Charging Station, 9.6KW, 40A, 240V, SAE J1772 w/ Tesla Plug"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "Stéphane Lémeret (20 Minutes)",
-            "title": "Tesla : Trois nouveaux modèles en approche, dont un « robot-taxi » présenté en août 2024",
-            "description": "Tesla a confirmé l’arrivée de trois nouveautés électriques dans les prochaines années, des modèles aux philosophies bien différentes",
-            "url": "https://www.20minutes.fr/auto/4096580-20240617-tesla-trois-nouveaux-modeles-approche-dont-robot-taxi-presente-aout-2024",
-            "urlToImage": "https://img.20mn.fr/SYlEDFL4SySaebExAlNVCyk/1444x920_trois-modeles-vont-elargir-la-gamme-tesla",
-            "publishedAt": "2024-06-17T13:07:36Z",
-            "content": "Le leader mondial des voitures électriques, lAméricain Tesla, est en mal de nouveautés ces dernières années. Mis à part le restylage de la berline Model 3 opéré en 2023, le dernier lancement denvergu… [+1508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.abc.es"
-            },
-            "author": "(abc)",
-            "title": "Pájaro, principal reclamo de la V Fiesta de la Música de Los Palacios y Villafranca",
-            "description": "Los Palacios y Villafranca celebra esta semana su Fiesta de la Música , un evento que este año celebra su quinta edición y que desde el jueves 20 hasta el domingo 23 de junio acogerá en numerosas calles y plazas de la localidad un total de 19 conciertos que a…",
-            "url": "https://www.abc.es/sevilla/provincia/pajaro-principal-reclamo-fiesta-musica-palacios-villafranca-20240617150158-nts.html",
-            "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2024/06/17/andres-pajaro-lospalacios(1)-U38354324736nOb-1024x512@diario_abc.jpg",
-            "publishedAt": "2024-06-17T13:01:58Z",
-            "content": "Los Palacios y Villafranca celebra esta semana su Fiesta de la Música, un evento que este año celebra su quinta edición y que desde el jueves 20 hasta el domingo 23 de junio acogerá en numerosas call… [+4760 chars]"
+            "author": "Marc Bona, cleveland.com",
+            "title": "Melt Bar and Grilled files for bankruptcy protection - cleveland.com",
+            "description": "Melt Bar and Grilled has filed for Chapter 11 bankruptcy protection.",
+            "url": "https://www.cleveland.com/entertainment/2024/06/melt-bar-and-grilled-declares-bankruptcy.html",
+            "urlToImage": "https://www.cleveland.com/resizer/v2/DGOU6F32MRDQPFYVY7KVWXYAAE.JPG?auth=d9845d025ca65fb73bff507081d29705530fe514fe96c9f8d2a3be8506d075f3&width=1280&quality=90",
+            "publishedAt": "2024-06-18T02:04:00Z",
+            "content": "CLEVELAND, Ohio Melt Bar and Grilled, the locally owned chain of restaurants that specialized in craft beer and gave a designer spin to grilled cheese sandwiches, has filed for Chapter 11 bankruptcy … [+3247 chars]"
         }
     ]
 }
