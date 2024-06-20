@@ -11,7 +11,7 @@ const App = () => {
 
   return (
     <div>
-      <Router>
+      <Router basename="/News-app">
         <Navbar />
         <LoadingBar color="#f11946" progress={progress} />
         <Routes>
