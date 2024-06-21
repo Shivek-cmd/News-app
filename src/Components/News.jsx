@@ -10,7 +10,7 @@ const News = (props) => {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
-  const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+  const apiKey = e86ba16fd4464d8ea0dc0d25d4af5c44;
 
   useEffect(() => {
     updateNews(); //eslint-disable-next-line
