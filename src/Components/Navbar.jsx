@@ -1,67 +1,124 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import { FaBars, FaTimes } from "react-icons/fa";
 
 const Navbar = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => setIsOpen(!isOpen);
+
   return (
-    <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
-            NewsMonkey
+    <nav className="bg-gray-800 text-white fixed w-full top-0 left-0 z-50 shadow-md">
+      <div className="container mx-auto flex items-center justify-between p-4">
+        <Link className="text-2xl font-bold" to="/">
+          NewsMonkey
+        </Link>
+
+        {/* Desktop Menu */}
+        <div className="hidden lg:flex items-center space-x-6">
+          <Link className="hover:text-gray-400 transition-colors" to="/">
+            Home
           </Link>
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/business"
           >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
-                  Home
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/business">
-                  Business
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/entertainment">
-                  Entertainment
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/health">
-                  Health
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/science">
-                  Science
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/sports">
-                  Sports
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/technology">
-                  Technology
-                </Link>
-              </li>
-            </ul>
-          </div>
+            Business
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/entertainment"
+          >
+            Entertainment
+          </Link>
+          <Link className="hover:text-gray-400 transition-colors" to="/health">
+            Health
+          </Link>
+          <Link className="hover:text-gray-400 transition-colors" to="/science">
+            Science
+          </Link>
+          <Link className="hover:text-gray-400 transition-colors" to="/sports">
+            Sports
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/technology"
+          >
+            Technology
+          </Link>
         </div>
-      </nav>
-    </div>
+
+        {/* Mobile Menu Button */}
+        <div className="lg:hidden flex items-center">
+          <button onClick={toggleMenu} aria-label="Toggle menu">
+            {isOpen ? (
+              <FaTimes className="text-2xl" />
+            ) : (
+              <FaBars className="text-2xl" />
+            )}
+          </button>
+        </div>
+      </div>
+
+      {/* Mobile Menu */}
+      <div
+        className={`lg:hidden fixed top-16 left-0 w-full bg-gray-800 text-white p-4 transition-transform ${
+          isOpen ? "transform translate-x-0" : "transform -translate-x-full"
+        }`}
+      >
+        <div className="flex flex-col space-y-4">
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/"
+            onClick={toggleMenu}
+          >
+            Home
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/business"
+            onClick={toggleMenu}
+          >
+            Business
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/entertainment"
+            onClick={toggleMenu}
+          >
+            Entertainment
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/health"
+            onClick={toggleMenu}
+          >
+            Health
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/science"
+            onClick={toggleMenu}
+          >
+            Science
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/sports"
+            onClick={toggleMenu}
+          >
+            Sports
+          </Link>
+          <Link
+            className="hover:text-gray-400 transition-colors"
+            to="/technology"
+            onClick={toggleMenu}
+          >
+            Technology
+          </Link>
+        </div>
+      </div>
+    </nav>
   );
 };
 

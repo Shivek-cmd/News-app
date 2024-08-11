@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar";
 import News from "./Components/News";
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 import "./App.css";
 
@@ -11,7 +11,7 @@ const App = () => {
 
   return (
     <div>
-      <Router basename="/News-app">
+      <Router>
         <Navbar />
         <LoadingBar color="#f11946" progress={progress} />
         <Routes>
@@ -22,7 +22,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="general"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="general"
               />
             }
@@ -34,7 +34,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="business"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="business"
               />
             }
@@ -46,7 +46,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="entertainment"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="entertainment"
               />
             }
@@ -58,7 +58,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="health"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="health"
               />
             }
@@ -70,7 +70,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="science"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="science"
               />
             }
@@ -82,7 +82,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="sports"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="sports"
               />
             }
@@ -94,7 +94,7 @@ const App = () => {
                 setProgress={setProgress}
                 key="technology"
                 pageSize={pageSize}
-                country="in"
+                country="us"
                 category="technology"
               />
             }

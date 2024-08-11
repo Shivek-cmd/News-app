@@ -12,35 +12,36 @@ const NewsItem = ({ title, description, imageUrl, newsUrl, author, date }) => {
       .filter((word) => word !== "");
 
     return words.length > maxLength
-      ? `${words.slice(0, maxLength).join(" ")} ...`
+      ? `${words.slice(0, maxLength).join(" ")}...`
       : words.join(" ");
   };
 
   return (
-    <div className="my-3">
-      <div className="card" style={{ width: "22rem", height: "35rem" }}>
+    <div className="my-4">
+      <div className="card bg-white rounded-lg shadow-md overflow-hidden transition-transform transform hover:scale-105">
         <img
           src={
             imageUrl ||
             "https://www.hindustantimes.com/ht-img/img/2024/06/17/1600x900/lockie_ferguson_1718643438460_1718643443961.jfif"
-          } // Provide a placeholder image URL if imageUrl is missing
-          className="card-img-top"
+          } // Placeholder image URL if imageUrl is missing
+          className="card-img-top object-cover w-full h-48"
           alt="News"
-          style={{ width: "100%", height: "200px" }}
         />
-        <div className="card-body">
-          <h5 className="card-title">{truncateText(title, 15)}</h5>
-          <p className="card-text">{truncateText(description, 20)}</p>
-          <p className="card-text">
-            <small className="text-muted">
-              By {author || "Unknown"} on {new Date(date).toGMTString()}
+        <div className="card-body p-4">
+          <h5 className="text-xl font-semibold mb-2">
+            {truncateText(title, 15)}
+          </h5>
+          <p className="text-gray-700 mb-4">{truncateText(description, 20)}</p>
+          <p className="text-sm text-gray-500 mb-4">
+            <small>
+              By {author || "Unknown"} on {new Date(date).toLocaleDateString()}
             </small>
           </p>
           <a
             href={newsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="btn btn-sm btn-dark"
+            className="btn btn-primary py-2 px-4 rounded-md text-white bg-blue-600 hover:bg-blue-700 transition-colors"
           >
             Read More
           </a>

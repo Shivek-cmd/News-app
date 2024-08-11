@@ -4,8 +4,7 @@ import Spinner from "./Spinner";
 import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 
-const News = (props) => {
-  const { country, pageSize, category, setProgress } = props;
+const News = ({ country, pageSize, category, setProgress }) => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
@@ -13,17 +12,21 @@ const News = (props) => {
   const apiKey = "e86ba16fd4464d8ea0dc0d25d4af5c44";
 
   useEffect(() => {
-    updateNews(); //eslint-disable-next-line
+    updateNews();
   }, []);
 
   const updateNews = async () => {
     setProgress(10);
 
     try {
-      const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apiKey}&page=${page}&pageSize=${pageSize}`;
+      const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&page=${page}&pageSize=${pageSize}`;
 
       setLoading(true);
-      let data = await fetch(url);
+      let data = await fetch(url, {
+        headers: {
+          Authorization: `Bearer ${apiKey}`,
+        },
+      });
       setProgress(30);
       let parsedData = await data.json();
       setProgress(70);
@@ -43,11 +46,15 @@ const News = (props) => {
     setPage(page + 1);
 
     try {
-      const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apiKey}&page=${
+      const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&page=${
         page + 1
       }&pageSize=${pageSize}`;
 
-      let data = await fetch(url);
+      let data = await fetch(url, {
+        headers: {
+          Authorization: `Bearer ${apiKey}`,
+        },
+      });
       let parsedData = await data.json();
 
       setArticles([...articles, ...(parsedData.articles || [])]);
@@ -60,12 +67,9 @@ const News = (props) => {
   };
 
   return (
-    <div className="container my-3">
-      <h1
-        className="text-center"
-        style={{ margin: "35px 0px", marginTop: "90px" }}
-      >
-        NewsMonkey-Top Headlines
+    <div className="container mx-auto my-6 px-4 md:px-8">
+      <h1 className="text-4xl font-bold text-center mb-10 my-24 text-gray-800">
+        NewsMonkey - Top Headlines
       </h1>
       {loading && <Spinner />}
       <InfiniteScroll
@@ -74,37 +78,32 @@ const News = (props) => {
         hasMore={articles.length < totalResults}
         loader={<Spinner />}
       >
-        <div className="container">
-          <div className="row">
-            {articles.map((article, index) => (
-              <div className="col-md-4" key={index}>
-                <NewsItem
-                  title={article.title}
-                  description={article.description}
-                  imageUrl={article.urlToImage}
-                  newsUrl={article.url}
-                  author={article.author}
-                  date={article.publishedAt}
-                />
-              </div>
-            ))}
-          </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((article, index) => (
+            <div
+              className="bg-white rounded-lg overflow-hidden transition-transform transform hover:scale-105"
+              key={index}
+            >
+              <NewsItem
+                title={article.title}
+                description={article.description}
+                imageUrl={article.urlToImage}
+                newsUrl={article.url}
+                author={article.author || "Unknown"}
+                date={article.publishedAt}
+              />
+            </div>
+          ))}
         </div>
       </InfiniteScroll>
     </div>
   );
 };
 
-News.defaultProps = {
-  country: "in",
-  pageSize: 8,
-  category: "general",
-};
-
 News.propTypes = {
-  country: PropTypes.string,
-  pageSize: PropTypes.number,
-  category: PropTypes.string,
+  country: PropTypes.string.isRequired,
+  pageSize: PropTypes.number.isRequired,
+  category: PropTypes.string.isRequired,
   setProgress: PropTypes.func.isRequired,
 };
 
